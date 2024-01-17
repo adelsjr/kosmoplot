@@ -4,7 +4,7 @@
 
 Take a look at this photo (taken by me) of orion constellation:
 
-![orion](assets/img/orion.jpg)
+![orion](assets/img/orion.png)
 
 This is a only a photo (a good one, but only a photo)
 
