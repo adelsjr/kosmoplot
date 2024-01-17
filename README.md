@@ -4,7 +4,7 @@
 
 Take a look at this photo (taken by me) of orion constellation:
 
-![Orion](raw.githubusercontent.com/adelsjr/kosmoplot/assets/img/orion.jpg)
+![orion](assets/img/orion.jpg)
 
 This is a only a photo (a good one, but only a photo)
 
