@@ -1,0 +1,3042 @@
+[
+    {
+        "name": "Rigel",
+        "constellation": "Orion",
+        "right_ascension": "05h 14m 32.27s",
+        "declination": "\u221208\u00b0 12\u2032 05.9\u2033",
+        "apparent_magnitude": "0.18",
+        "absolute_magnitude": "\u22126.69",
+        "distance_light_year": "773",
+        "spectral_class": "B8Ia + B9V + B9V"
+    },
+    {
+        "name": "Betelgeuse",
+        "constellation": "Orion",
+        "right_ascension": "05h 55m 10.29s",
+        "declination": "+07\u00b0 24\u2032 25.3\u2033",
+        "apparent_magnitude": "0.42",
+        "absolute_magnitude": "\u22126.02",
+        "distance_light_year": "643",
+        "spectral_class": "M2Ib"
+    },
+    {
+        "name": "Bellatrix",
+        "constellation": "Orion",
+        "right_ascension": "05h 25m 07.87s",
+        "declination": "+06\u00b0 20\u2032 59.0\u2033",
+        "apparent_magnitude": "1.64",
+        "absolute_magnitude": "\u22122.72",
+        "distance_light_year": "243",
+        "spectral_class": "B2III"
+    },
+    {
+        "name": "Alnilam",
+        "constellation": "Orion",
+        "right_ascension": "05h 36m 12.81s",
+        "declination": "\u221201\u00b0 12\u2032 06.9\u2033",
+        "apparent_magnitude": "1.69",
+        "absolute_magnitude": "\u22126.38",
+        "distance_light_year": "1342",
+        "spectral_class": "B0Ia"
+    },
+    {
+        "name": "Alnitak A",
+        "constellation": "Orion",
+        "right_ascension": "05h 40m 45.52s",
+        "declination": "\u221201\u00b0 56\u2032 33.3\u2033",
+        "apparent_magnitude": "1.88",
+        "absolute_magnitude": "-6.0",
+        "distance_light_year": "817",
+        "spectral_class": "O9.7Ib"
+    },
+    {
+        "name": "Saiph",
+        "constellation": "Orion",
+        "right_ascension": "05h 47m 45.39s",
+        "declination": "\u221209\u00b0 40\u2032 10.6\u2033",
+        "apparent_magnitude": "2.07",
+        "absolute_magnitude": "\u22124.65",
+        "distance_light_year": "721",
+        "spectral_class": "B0.5Ia"
+    },
+    {
+        "name": "Mintaka AB",
+        "constellation": "Orion",
+        "right_ascension": "05h 32m 00.40s",
+        "declination": "\u221200\u00b0 17\u2032 56.7\u2033",
+        "apparent_magnitude": "2.20",
+        "absolute_magnitude": "-5.8",
+        "distance_light_year": "916",
+        "spectral_class": "B0III+O9V"
+    },
+    {
+        "name": "\u03b9 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 25.98s",
+        "declination": "\u221205\u00b0 54\u2032 35.6\u2033",
+        "apparent_magnitude": "2.75",
+        "absolute_magnitude": "\u22125.30",
+        "distance_light_year": "1325",
+        "spectral_class": "O9III"
+    },
+    {
+        "name": "\u03c03 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 49m 50.14s",
+        "declination": "+06\u00b0 57\u2032 40.5\u2033",
+        "apparent_magnitude": "3.19",
+        "absolute_magnitude": "3.67",
+        "distance_light_year": "26",
+        "spectral_class": "F6V"
+    },
+    {
+        "name": "\u03b7 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 24m 28.62s",
+        "declination": "\u221202\u00b0 23\u2032 49.7\u2033",
+        "apparent_magnitude": "3.35",
+        "absolute_magnitude": "\u22123.86",
+        "distance_light_year": "901",
+        "spectral_class": "B1V + B2"
+    },
+    {
+        "name": "Meissa A",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 08.28s",
+        "declination": "+09\u00b0 56\u2032 03.0\u2033",
+        "apparent_magnitude": "3.47",
+        "absolute_magnitude": "-4.25",
+        "distance_light_year": "1055",
+        "spectral_class": "O8III"
+    },
+    {
+        "name": "\u03c4 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 17m 36.40s",
+        "declination": "\u221206\u00b0 50\u2032 39.8\u2033",
+        "apparent_magnitude": "3.59",
+        "absolute_magnitude": "\u22122.56",
+        "distance_light_year": "554",
+        "spectral_class": "B5III"
+    },
+    {
+        "name": "\u03c04 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 51m 12.37s",
+        "declination": "+05\u00b0 36\u2032 18.4\u2033",
+        "apparent_magnitude": "3.68",
+        "absolute_magnitude": "\u22124.25",
+        "distance_light_year": "1259",
+        "spectral_class": "B2III"
+    },
+    {
+        "name": "Alnitak B",
+        "constellation": "Orion",
+        "right_ascension": "05h 40m 45.60s",
+        "declination": "\u221201\u00b0 56\u2032 34.0\u2033",
+        "apparent_magnitude": "3.70",
+        "absolute_magnitude": "-3.29",
+        "distance_light_year": "817",
+        "spectral_class": "B0III+B1IV"
+    },
+    {
+        "name": "\u03c05 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 54m 15.10s",
+        "declination": "+02\u00b0 26\u2032 26.4\u2033",
+        "apparent_magnitude": "3.71",
+        "absolute_magnitude": "\u22124.36",
+        "distance_light_year": "1342",
+        "spectral_class": "B2III"
+    },
+    {
+        "name": "\u03c3 Ori AB",
+        "constellation": "Orion",
+        "right_ascension": "05h 38m 44.77s",
+        "declination": "\u221202\u00b0 36\u2032 00.2\u2033",
+        "apparent_magnitude": "3.77",
+        "absolute_magnitude": "\u22123.96",
+        "distance_light_year": "1148",
+        "spectral_class": "O9.5V"
+    },
+    {
+        "name": "\u03bf2 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 56m 22.32s",
+        "declination": "+13\u00b0 30\u2032 52.5\u2033",
+        "apparent_magnitude": "4.06",
+        "absolute_magnitude": "0.48",
+        "distance_light_year": "169",
+        "spectral_class": "K2III"
+    },
+    {
+        "name": "\u03c62 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 36m 54.33s",
+        "declination": "+09\u00b0 17\u2032 29.1\u2033",
+        "apparent_magnitude": "4.09",
+        "absolute_magnitude": "1.33",
+        "distance_light_year": "116",
+        "spectral_class": "G8III-IV"
+    },
+    {
+        "name": "\u03bc Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 02m 22.99s",
+        "declination": "+09\u00b0 38\u2032 50.5\u2033",
+        "apparent_magnitude": "4.12",
+        "absolute_magnitude": "0.78",
+        "distance_light_year": "152",
+        "spectral_class": "Am..."
+    },
+    {
+        "name": "29 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 23m 56.84s",
+        "declination": "\u221207\u00b0 48\u2032 28.6\u2033",
+        "apparent_magnitude": "4.13",
+        "absolute_magnitude": "0.49",
+        "distance_light_year": "174",
+        "spectral_class": "G8III"
+    },
+    {
+        "name": "32 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 30m 47.05s",
+        "declination": "+05\u00b0 56\u2032 53.6\u2033",
+        "apparent_magnitude": "4.20",
+        "absolute_magnitude": "\u22120.53",
+        "distance_light_year": "288",
+        "spectral_class": "B5V"
+    },
+    {
+        "name": "\u03c02 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 50m 36.72s",
+        "declination": "+08\u00b0 54\u2032 00.9\u2033",
+        "apparent_magnitude": "4.35",
+        "absolute_magnitude": "0.48",
+        "distance_light_year": "194",
+        "spectral_class": "A1Vn"
+    },
+    {
+        "name": "\u03c61 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 34m 49.24s",
+        "declination": "+09\u00b0 29\u2032 22.5\u2033",
+        "apparent_magnitude": "4.39",
+        "absolute_magnitude": "\u22123.01",
+        "distance_light_year": "985",
+        "spectral_class": "B0IV..."
+    },
+    {
+        "name": "\u03c71 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 54m 23.08s",
+        "declination": "+20\u00b0 16\u2032 35.1\u2033",
+        "apparent_magnitude": "4.39",
+        "absolute_magnitude": "4.67",
+        "distance_light_year": "28",
+        "spectral_class": "G0V"
+    },
+    {
+        "name": "\u03bd Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 07m 34.32s",
+        "declination": "+14\u00b0 46\u2032 06.7\u2033",
+        "apparent_magnitude": "4.42",
+        "absolute_magnitude": "\u22121.65",
+        "distance_light_year": "534",
+        "spectral_class": "B3IV"
+    },
+    {
+        "name": "\u03be Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 11m 56.40s",
+        "declination": "+14\u00b0 12\u2032 31.7\u2033",
+        "apparent_magnitude": "4.45",
+        "absolute_magnitude": "\u22122.00",
+        "distance_light_year": "634",
+        "spectral_class": "B3IV"
+    },
+    {
+        "name": "\u03c1 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 13m 17.48s",
+        "declination": "+02\u00b0 51\u2032 40.5\u2033",
+        "apparent_magnitude": "4.46",
+        "absolute_magnitude": "\u22120.65",
+        "distance_light_year": "344",
+        "spectral_class": "K3III..."
+    },
+    {
+        "name": "\u03c06 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 58m 32.90s",
+        "declination": "+01\u00b0 42\u2032 50.5\u2033",
+        "apparent_magnitude": "4.47",
+        "absolute_magnitude": "\u22122.86",
+        "distance_light_year": "953",
+        "spectral_class": "K2IIvar"
+    },
+    {
+        "name": "\u03c9 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 39m 11.15s",
+        "declination": "+04\u00b0 07\u2032 17.3\u2033",
+        "apparent_magnitude": "4.50",
+        "absolute_magnitude": "\u22123.98",
+        "distance_light_year": "1622",
+        "spectral_class": "B3IIIe"
+    },
+    {
+        "name": "HD 40657",
+        "constellation": "Orion",
+        "right_ascension": "06h 00m 03.35s",
+        "declination": "\u221203\u00b0 04\u2032 26.7\u2033",
+        "apparent_magnitude": "4.53",
+        "absolute_magnitude": "\u22121.02",
+        "distance_light_year": "420",
+        "spectral_class": "K2IIIvar"
+    },
+    {
+        "name": "42 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 23.16s",
+        "declination": "\u221204\u00b0 50\u2032 18.0\u2033",
+        "apparent_magnitude": "4.58",
+        "absolute_magnitude": "\u22122.33",
+        "distance_light_year": "786",
+        "spectral_class": "B2III..."
+    },
+    {
+        "name": "\u03c82 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 26m 50.23s",
+        "declination": "+03\u00b0 05\u2032 44.4\u2033",
+        "apparent_magnitude": "4.59",
+        "absolute_magnitude": "\u22123.60",
+        "distance_light_year": "1417",
+        "spectral_class": "B2IV"
+    },
+    {
+        "name": "\u03c5 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 31m 55.86s",
+        "declination": "\u221207\u00b0 18\u2032 05.5\u2033",
+        "apparent_magnitude": "4.62",
+        "absolute_magnitude": "\u22123.76",
+        "distance_light_year": "1545",
+        "spectral_class": "B0V"
+    },
+    {
+        "name": "\u03c01 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 54m 53.70s",
+        "declination": "+10\u00b0 09\u2032 04.1\u2033",
+        "apparent_magnitude": "4.64",
+        "absolute_magnitude": "1.80",
+        "distance_light_year": "121",
+        "spectral_class": "A0V"
+    },
+    {
+        "name": "\u03c72 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 03m 55.18s",
+        "declination": "+20\u00b0 08\u2032 18.5\u2033",
+        "apparent_magnitude": "4.64",
+        "absolute_magnitude": "-7.6",
+        "distance_light_year": "1801",
+        "spectral_class": "B2Ia"
+    },
+    {
+        "name": "11 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 04m 34.14s",
+        "declination": "+15\u00b0 24\u2032 15.1\u2033",
+        "apparent_magnitude": "4.65",
+        "absolute_magnitude": "\u22120.79",
+        "distance_light_year": "400",
+        "spectral_class": "A0p Si"
+    },
+    {
+        "name": "\u03bf1 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 52m 31.96s",
+        "declination": "+14\u00b0 15\u2032 02.8\u2033",
+        "apparent_magnitude": "4.71",
+        "absolute_magnitude": "\u22121.39",
+        "distance_light_year": "542",
+        "spectral_class": "M3Sv"
+    },
+    {
+        "name": "31 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 29m 43.98s",
+        "declination": "\u221201\u00b0 05\u2032 31.8\u2033",
+        "apparent_magnitude": "4.71",
+        "absolute_magnitude": "\u22121.02",
+        "distance_light_year": "456",
+        "spectral_class": "K5III"
+    },
+    {
+        "name": "22 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 21m 45.75s",
+        "declination": "\u221200\u00b0 22\u2032 56.9\u2033",
+        "apparent_magnitude": "4.72",
+        "absolute_magnitude": "\u22123.26",
+        "distance_light_year": "1289",
+        "spectral_class": "B2IV-V"
+    },
+    {
+        "name": "56 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 52m 26.44s",
+        "declination": "+01\u00b0 51\u2032 18.6\u2033",
+        "apparent_magnitude": "4.76",
+        "absolute_magnitude": "\u22122.91",
+        "distance_light_year": "1113",
+        "spectral_class": "K2IIvar"
+    },
+    {
+        "name": "49 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 38m 53.09s",
+        "declination": "\u221207\u00b0 12\u2032 45.8\u2033",
+        "apparent_magnitude": "4.77",
+        "absolute_magnitude": "1.41",
+        "distance_light_year": "153",
+        "spectral_class": "A4V"
+    },
+    {
+        "name": "HD 36960",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 02.68s",
+        "declination": "\u221206\u00b0 00\u2032 07.3\u2033",
+        "apparent_magnitude": "4.78",
+        "absolute_magnitude": "\u22124.00",
+        "distance_light_year": "1863",
+        "spectral_class": "B0.5V"
+    },
+    {
+        "name": "15 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 09m 41.96s",
+        "declination": "+15\u00b0 35\u2032 50.2\u2033",
+        "apparent_magnitude": "4.81",
+        "absolute_magnitude": "\u22120.14",
+        "distance_light_year": "318",
+        "spectral_class": "F2IV"
+    },
+    {
+        "name": "\u03c81 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 24m 44.83s",
+        "declination": "+01\u00b0 50\u2032 47.2\u2033",
+        "apparent_magnitude": "4.89",
+        "absolute_magnitude": "\u22122.77",
+        "distance_light_year": "1109",
+        "spectral_class": "B1V:pe"
+    },
+    {
+        "name": "51 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 42m 28.66s",
+        "declination": "+01\u00b0 28\u2032 28.8\u2033",
+        "apparent_magnitude": "4.90",
+        "absolute_magnitude": "0.07",
+        "distance_light_year": "302",
+        "spectral_class": "K1III"
+    },
+    {
+        "name": "HD 44131",
+        "constellation": "Orion",
+        "right_ascension": "06h 19m 59.60s",
+        "declination": "\u221202\u00b0 56\u2032 40.2\u2033",
+        "apparent_magnitude": "4.91",
+        "absolute_magnitude": "\u22121.05",
+        "distance_light_year": "506",
+        "spectral_class": "M1III"
+    },
+    {
+        "name": "HD 37756",
+        "constellation": "Orion",
+        "right_ascension": "05h 40m 50.72s",
+        "declination": "\u221201\u00b0 07\u2032 43.6\u2033",
+        "apparent_magnitude": "4.95",
+        "absolute_magnitude": "\u22124.08",
+        "distance_light_year": "2090",
+        "spectral_class": "B2IV-V"
+    },
+    {
+        "name": "69 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 12m 03.28s",
+        "declination": "+16\u00b0 07\u2032 49.6\u2033",
+        "apparent_magnitude": "4.95",
+        "absolute_magnitude": "\u22121.93",
+        "distance_light_year": "774",
+        "spectral_class": "B5Vn"
+    },
+    {
+        "name": "\u03b82 Ori A",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 22.90s",
+        "declination": "\u221205\u00b0 24\u2032 57.8\u2033",
+        "apparent_magnitude": "4.98",
+        "absolute_magnitude": "\u22123.84",
+        "distance_light_year": "1895",
+        "spectral_class": "O9.5Vpe"
+    },
+    {
+        "name": "23 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 22m 50.00s",
+        "declination": "+03\u00b0 32\u2032 40.0\u2033",
+        "apparent_magnitude": "5.00",
+        "absolute_magnitude": "\u22122.35",
+        "distance_light_year": "962",
+        "spectral_class": "B1V"
+    },
+    {
+        "name": "74 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 16m 26.57s",
+        "declination": "+12\u00b0 16\u2032 18.2\u2033",
+        "apparent_magnitude": "5.04",
+        "absolute_magnitude": "3.58",
+        "distance_light_year": "64",
+        "spectral_class": "F5IV-V"
+    },
+    {
+        "name": "27 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 24m 28.91s",
+        "declination": "\u221200\u00b0 53\u2032 30.0\u2033",
+        "apparent_magnitude": "5.07",
+        "absolute_magnitude": "1.46",
+        "distance_light_year": "172",
+        "spectral_class": "K0III"
+    },
+    {
+        "name": "\u03b81 Ori C",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 16.47s",
+        "declination": "\u221205\u00b0 23\u2032 22.9\u2033",
+        "apparent_magnitude": "5.13",
+        "absolute_magnitude": "-4.9",
+        "distance_light_year": "1600",
+        "spectral_class": "O6Vpe"
+    },
+    {
+        "name": "64 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 03m 27.36s",
+        "declination": "+19\u00b0 41\u2032 26.2\u2033",
+        "apparent_magnitude": "5.14",
+        "absolute_magnitude": "\u22122.44",
+        "distance_light_year": "1069",
+        "spectral_class": "B8V"
+    },
+    {
+        "name": "6 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 54m 46.91s",
+        "declination": "+11\u00b0 25\u2032 33.5\u2033",
+        "apparent_magnitude": "5.18",
+        "absolute_magnitude": "0.84",
+        "distance_light_year": "241",
+        "spectral_class": "A3V"
+    },
+    {
+        "name": "HD 33554",
+        "constellation": "Orion",
+        "right_ascension": "05h 11m 41.56s",
+        "declination": "+16\u00b0 02\u2032 44.4\u2033",
+        "apparent_magnitude": "5.18",
+        "absolute_magnitude": "0.21",
+        "distance_light_year": "321",
+        "spectral_class": "K5III"
+    },
+    {
+        "name": "71 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 14m 50.94s",
+        "declination": "+19\u00b0 09\u2032 24.8\u2033",
+        "apparent_magnitude": "5.20",
+        "absolute_magnitude": "3.58",
+        "distance_light_year": "69",
+        "spectral_class": "F6V"
+    },
+    {
+        "name": "60 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 58m 49.58s",
+        "declination": "+00\u00b0 33\u2032 10.7\u2033",
+        "apparent_magnitude": "5.21",
+        "absolute_magnitude": "\u22120.05",
+        "distance_light_year": "367",
+        "spectral_class": "A1Vs"
+    },
+    {
+        "name": "45 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 39.49s",
+        "declination": "\u221204\u00b0 51\u2032 21.9\u2033",
+        "apparent_magnitude": "5.24",
+        "absolute_magnitude": "\u22120.04",
+        "distance_light_year": "370",
+        "spectral_class": "F0III"
+    },
+    {
+        "name": "52 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 48m 00.23s",
+        "declination": "+06\u00b0 27\u2032 15.2\u2033",
+        "apparent_magnitude": "5.26",
+        "absolute_magnitude": "\u22120.58",
+        "distance_light_year": "479",
+        "spectral_class": "A5V"
+    },
+    {
+        "name": "38 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 34m 16.79s",
+        "declination": "+03\u00b0 46\u2032 01.0\u2033",
+        "apparent_magnitude": "5.32",
+        "absolute_magnitude": "0.20",
+        "distance_light_year": "345",
+        "spectral_class": "A2V"
+    },
+    {
+        "name": "5 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 53m 22.76s",
+        "declination": "+02\u00b0 30\u2032 29.8\u2033",
+        "apparent_magnitude": "5.33",
+        "absolute_magnitude": "\u22121.13",
+        "distance_light_year": "638",
+        "spectral_class": "M1III"
+    },
+    {
+        "name": "HD 31296",
+        "constellation": "Orion",
+        "right_ascension": "04h 54m 47.79s",
+        "declination": "+07\u00b0 46\u2032 45.0\u2033",
+        "apparent_magnitude": "5.33",
+        "absolute_magnitude": "\u22120.33",
+        "distance_light_year": "441",
+        "spectral_class": "K1III"
+    },
+    {
+        "name": "14 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 07m 52.87s",
+        "declination": "+08\u00b0 29\u2032 54.9\u2033",
+        "apparent_magnitude": "5.33",
+        "absolute_magnitude": "1.46",
+        "distance_light_year": "194",
+        "spectral_class": "Am"
+    },
+    {
+        "name": "21 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 19m 11.23s",
+        "declination": "+02\u00b0 35\u2032 45.4\u2033",
+        "apparent_magnitude": "5.34",
+        "absolute_magnitude": "1.42",
+        "distance_light_year": "198",
+        "spectral_class": "F5IIvar"
+    },
+    {
+        "name": "HD 36591",
+        "constellation": "Orion",
+        "right_ascension": "05h 32m 41.35s",
+        "declination": "\u221201\u00b0 35\u2032 30.6\u2033",
+        "apparent_magnitude": "5.34",
+        "absolute_magnitude": "\u22124.14",
+        "distance_light_year": "2567",
+        "spectral_class": "B1IV"
+    },
+    {
+        "name": "72 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 15m 25.13s",
+        "declination": "+16\u00b0 08\u2032 35.5\u2033",
+        "apparent_magnitude": "5.34",
+        "absolute_magnitude": "\u22120.50",
+        "distance_light_year": "479",
+        "spectral_class": "B7V"
+    },
+    {
+        "name": "HD 30210",
+        "constellation": "Orion",
+        "right_ascension": "04h 46m 01.70s",
+        "declination": "+11\u00b0 42\u2032 20.2\u2033",
+        "apparent_magnitude": "5.35",
+        "absolute_magnitude": "0.79",
+        "distance_light_year": "266",
+        "spectral_class": "Am..."
+    },
+    {
+        "name": "VV Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 33m 31.45s",
+        "declination": "\u221201\u00b0 09\u2032 21.9\u2033",
+        "apparent_magnitude": "5.36",
+        "absolute_magnitude": "\u22123.41",
+        "distance_light_year": "1852",
+        "spectral_class": "B1V"
+    },
+    {
+        "name": "55 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 51m 21.98s",
+        "declination": "\u221207\u00b0 31\u2032 04.8\u2033",
+        "apparent_magnitude": "5.36",
+        "absolute_magnitude": "\u22123.20",
+        "distance_light_year": "1680",
+        "spectral_class": "B2IV-V"
+    },
+    {
+        "name": "HD 30034",
+        "constellation": "Orion",
+        "right_ascension": "04h 44m 25.77s",
+        "declination": "+11\u00b0 08\u2032 46.2\u2033",
+        "apparent_magnitude": "5.39",
+        "absolute_magnitude": "1.97",
+        "distance_light_year": "157",
+        "spectral_class": "F0V"
+    },
+    {
+        "name": "75 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 17m 06.62s",
+        "declination": "+09\u00b0 56\u2032 33.1\u2033",
+        "apparent_magnitude": "5.39",
+        "absolute_magnitude": "0.93",
+        "distance_light_year": "254",
+        "spectral_class": "A2V"
+    },
+    {
+        "name": "U Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 55m 49.30s",
+        "declination": "+20\u00b0 10\u2032 30.0\u2033",
+        "apparent_magnitude": "5.40",
+        "absolute_magnitude": "",
+        "distance_light_year": "1420",
+        "spectral_class": "M8III"
+    },
+    {
+        "name": "16 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 09m 19.60s",
+        "declination": "+09\u00b0 49\u2032 46.6\u2033",
+        "apparent_magnitude": "5.43",
+        "absolute_magnitude": "1.77",
+        "distance_light_year": "176",
+        "spectral_class": "A2m"
+    },
+    {
+        "name": "73 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 15m 44.97s",
+        "declination": "+12\u00b0 33\u2032 03.9\u2033",
+        "apparent_magnitude": "5.44",
+        "absolute_magnitude": "\u22122.72",
+        "distance_light_year": "1399",
+        "spectral_class": "B9II-III"
+    },
+    {
+        "name": "33 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 31m 14.53s",
+        "declination": "+03\u00b0 17\u2032 31.7\u2033",
+        "apparent_magnitude": "5.46",
+        "absolute_magnitude": "\u22122.95",
+        "distance_light_year": "1567",
+        "spectral_class": "B1.5V"
+    },
+    {
+        "name": "HD 34043",
+        "constellation": "Orion",
+        "right_ascension": "05h 14m 44.05s",
+        "declination": "+05\u00b0 09\u2032 22.1\u2033",
+        "apparent_magnitude": "5.50",
+        "absolute_magnitude": "\u22120.82",
+        "distance_light_year": "598",
+        "spectral_class": "K4III"
+    },
+    {
+        "name": "18 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 16m 04.14s",
+        "declination": "+11\u00b0 20\u2032 28.9\u2033",
+        "apparent_magnitude": "5.52",
+        "absolute_magnitude": "0.26",
+        "distance_light_year": "368",
+        "spectral_class": "A0V"
+    },
+    {
+        "name": "HD 35536",
+        "constellation": "Orion",
+        "right_ascension": "05h 25m 01.74s",
+        "declination": "\u221210\u00b0 19\u2032 43.8\u2033",
+        "apparent_magnitude": "5.60",
+        "absolute_magnitude": "\u22120.85",
+        "distance_light_year": "635",
+        "spectral_class": "K5III"
+    },
+    {
+        "name": "35 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 33m 54.29s",
+        "declination": "+14\u00b0 18\u2032 20.1\u2033",
+        "apparent_magnitude": "5.60",
+        "absolute_magnitude": "\u22120.39",
+        "distance_light_year": "513",
+        "spectral_class": "B3V"
+    },
+    {
+        "name": "HD 36881",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 13.24s",
+        "declination": "+10\u00b0 14\u2032 24.4\u2033",
+        "apparent_magnitude": "5.60",
+        "absolute_magnitude": "\u22122.66",
+        "distance_light_year": "1462",
+        "spectral_class": "B9IIIMNp..."
+    },
+    {
+        "name": "Meissa B",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 08.50s",
+        "declination": "+09\u00b0 56\u2032 06.0\u2033",
+        "apparent_magnitude": "5.61",
+        "absolute_magnitude": "-1.94",
+        "distance_light_year": "1055",
+        "spectral_class": "B0.5V"
+    },
+    {
+        "name": "HD 43318",
+        "constellation": "Orion",
+        "right_ascension": "06h 15m 34.36s",
+        "declination": "\u221200\u00b0 30\u2032 42.0\u2033",
+        "apparent_magnitude": "5.62",
+        "absolute_magnitude": "2.86",
+        "distance_light_year": "116",
+        "spectral_class": "F6V"
+    },
+    {
+        "name": "66 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 04m 58.36s",
+        "declination": "+04\u00b0 09\u2032 31.2\u2033",
+        "apparent_magnitude": "5.63",
+        "absolute_magnitude": "\u22123.78",
+        "distance_light_year": "2489",
+        "spectral_class": "G4III"
+    },
+    {
+        "name": "HD 36959",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 01.01s",
+        "declination": "\u221206\u00b0 00\u2032 33.4\u2033",
+        "apparent_magnitude": "5.67",
+        "absolute_magnitude": "",
+        "distance_light_year": "2694",
+        "spectral_class": "B1Vvar"
+    },
+    {
+        "name": "63 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 04m 58.19s",
+        "declination": "+05\u00b0 25\u2032 11.9\u2033",
+        "apparent_magnitude": "5.67",
+        "absolute_magnitude": "\u22121.97",
+        "distance_light_year": "1101",
+        "spectral_class": "G7III:"
+    },
+    {
+        "name": "HD 44033",
+        "constellation": "Orion",
+        "right_ascension": "06h 20m 04.23s",
+        "declination": "+14\u00b0 39\u2032 04.2\u2033",
+        "apparent_magnitude": "5.67",
+        "absolute_magnitude": "\u22120.46",
+        "distance_light_year": "548",
+        "spectral_class": "K3Ib"
+    },
+    {
+        "name": "HD 35007",
+        "constellation": "Orion",
+        "right_ascension": "05h 21m 31.84s",
+        "declination": "\u221200\u00b0 24\u2032 59.4\u2033",
+        "apparent_magnitude": "5.68",
+        "absolute_magnitude": "\u22121.91",
+        "distance_light_year": "1076",
+        "spectral_class": "B3V"
+    },
+    {
+        "name": "HD 35299",
+        "constellation": "Orion",
+        "right_ascension": "05h 23m 42.31s",
+        "declination": "\u221200\u00b0 09\u2032 35.3\u2033",
+        "apparent_magnitude": "5.69",
+        "absolute_magnitude": "\u22121.28",
+        "distance_light_year": "809",
+        "spectral_class": "B1.5V"
+    },
+    {
+        "name": "HD 40369",
+        "constellation": "Orion",
+        "right_ascension": "05h 58m 53.24s",
+        "declination": "+12\u00b0 48\u2032 29.7\u2033",
+        "apparent_magnitude": "5.70",
+        "absolute_magnitude": "\u22121.35",
+        "distance_light_year": "838",
+        "spectral_class": "K2III..."
+    },
+    {
+        "name": "HD 42111",
+        "constellation": "Orion",
+        "right_ascension": "06h 08m 57.90s",
+        "declination": "+02\u00b0 29\u2032 59.0\u2033",
+        "apparent_magnitude": "5.70",
+        "absolute_magnitude": "\u22120.66",
+        "distance_light_year": "609",
+        "spectral_class": "A3Vn"
+    },
+    {
+        "name": "HD 43587",
+        "constellation": "Orion",
+        "right_ascension": "06h 17m 16.25s",
+        "declination": "+05\u00b0 05\u2032 58.9\u2033",
+        "apparent_magnitude": "5.70",
+        "absolute_magnitude": "4.27",
+        "distance_light_year": "63",
+        "spectral_class": "G0.5Vb"
+    },
+    {
+        "name": "HD 37209",
+        "constellation": "Orion",
+        "right_ascension": "05h 36m 35.69s",
+        "declination": "\u221206\u00b0 03\u2032 53.1\u2033",
+        "apparent_magnitude": "5.71",
+        "absolute_magnitude": "\u22123.14",
+        "distance_light_year": "1918",
+        "spectral_class": "B1V..."
+    },
+    {
+        "name": "68 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 12m 01.34s",
+        "declination": "+19\u00b0 47\u2032 26.1\u2033",
+        "apparent_magnitude": "5.76",
+        "absolute_magnitude": "\u22121.61",
+        "distance_light_year": "970",
+        "spectral_class": "B9.5V"
+    },
+    {
+        "name": "HD 36166",
+        "constellation": "Orion",
+        "right_ascension": "05h 29m 54.77s",
+        "declination": "+01\u00b0 47\u2032 21.3\u2033",
+        "apparent_magnitude": "5.77",
+        "absolute_magnitude": "\u22122.16",
+        "distance_light_year": "1254",
+        "spectral_class": "B2V"
+    },
+    {
+        "name": "HD 34989",
+        "constellation": "Orion",
+        "right_ascension": "05h 21m 43.56s",
+        "declination": "+08\u00b0 25\u2032 42.8\u2033",
+        "apparent_magnitude": "5.78",
+        "absolute_magnitude": "\u22120.99",
+        "distance_light_year": "736",
+        "spectral_class": "B1V..."
+    },
+    {
+        "name": "HD 38527",
+        "constellation": "Orion",
+        "right_ascension": "05h 46m 52.15s",
+        "declination": "+09\u00b0 31\u2032 21.0\u2033",
+        "apparent_magnitude": "5.78",
+        "absolute_magnitude": "0.96",
+        "distance_light_year": "300",
+        "spectral_class": "G8III"
+    },
+    {
+        "name": "HD 31373",
+        "constellation": "Orion",
+        "right_ascension": "04h 55m 50.16s",
+        "declination": "+15\u00b0 02\u2032 25.1\u2033",
+        "apparent_magnitude": "5.79",
+        "absolute_magnitude": "0.23",
+        "distance_light_year": "423",
+        "spectral_class": "B9V"
+    },
+    {
+        "name": "HD 39007",
+        "constellation": "Orion",
+        "right_ascension": "05h 50m 02.68s",
+        "declination": "+09\u00b0 52\u2032 16.4\u2033",
+        "apparent_magnitude": "5.79",
+        "absolute_magnitude": "0.74",
+        "distance_light_year": "334",
+        "spectral_class": "G8III"
+    },
+    {
+        "name": "HD 36134",
+        "constellation": "Orion",
+        "right_ascension": "05h 29m 23.70s",
+        "declination": "\u221203\u00b0 26\u2032 46.9\u2033",
+        "apparent_magnitude": "5.80",
+        "absolute_magnitude": "0.02",
+        "distance_light_year": "467",
+        "spectral_class": "K1III..."
+    },
+    {
+        "name": "HD 43023",
+        "constellation": "Orion",
+        "right_ascension": "06h 13m 54.24s",
+        "declination": "\u221203\u00b0 44\u2032 29.1\u2033",
+        "apparent_magnitude": "5.83",
+        "absolute_magnitude": "0.91",
+        "distance_light_year": "315",
+        "spectral_class": "G8III"
+    },
+    {
+        "name": "HD 42954",
+        "constellation": "Orion",
+        "right_ascension": "06h 14m 28.58s",
+        "declination": "+17\u00b0 54\u2032 23.0\u2033",
+        "apparent_magnitude": "5.86",
+        "absolute_magnitude": "0.15",
+        "distance_light_year": "452",
+        "spectral_class": "A6m"
+    },
+    {
+        "name": "HD 37320",
+        "constellation": "Orion",
+        "right_ascension": "05h 38m 01.11s",
+        "declination": "+07\u00b0 32\u2032 29.2\u2033",
+        "apparent_magnitude": "5.87",
+        "absolute_magnitude": "\u22120.29",
+        "distance_light_year": "556",
+        "spectral_class": "B8III"
+    },
+    {
+        "name": "HD 39910",
+        "constellation": "Orion",
+        "right_ascension": "05h 55m 30.16s",
+        "declination": "\u221204\u00b0 36\u2032 59.4\u2033",
+        "apparent_magnitude": "5.87",
+        "absolute_magnitude": "1.02",
+        "distance_light_year": "304",
+        "spectral_class": "K2III:"
+    },
+    {
+        "name": "HD 33646",
+        "constellation": "Orion",
+        "right_ascension": "05h 11m 45.35s",
+        "declination": "+01\u00b0 02\u2032 13.4\u2033",
+        "apparent_magnitude": "5.88",
+        "absolute_magnitude": "\u22121.36",
+        "distance_light_year": "916",
+        "spectral_class": "F5"
+    },
+    {
+        "name": "HD 33608",
+        "constellation": "Orion",
+        "right_ascension": "05h 11m 19.13s",
+        "declination": "\u221202\u00b0 29\u2032 26.8\u2033",
+        "apparent_magnitude": "5.89",
+        "absolute_magnitude": "2.97",
+        "distance_light_year": "125",
+        "spectral_class": "F5V"
+    },
+    {
+        "name": "HD 40020",
+        "constellation": "Orion",
+        "right_ascension": "05h 56m 49.39s",
+        "declination": "+11\u00b0 31\u2032 16.3\u2033",
+        "apparent_magnitude": "5.89",
+        "absolute_magnitude": "1.02",
+        "distance_light_year": "307",
+        "spectral_class": "K2III"
+    },
+    {
+        "name": "59 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 58m 24.44s",
+        "declination": "+01\u00b0 50\u2032 13.7\u2033",
+        "apparent_magnitude": "5.89",
+        "absolute_magnitude": "0.72",
+        "distance_light_year": "353",
+        "spectral_class": "A5me"
+    },
+    {
+        "name": "HD 33833",
+        "constellation": "Orion",
+        "right_ascension": "05h 12m 48.12s",
+        "declination": "\u221206\u00b0 03\u2032 25.6\u2033",
+        "apparent_magnitude": "5.90",
+        "absolute_magnitude": "0.22",
+        "distance_light_year": "446",
+        "spectral_class": "G7III"
+    },
+    {
+        "name": "HD 32263",
+        "constellation": "Orion",
+        "right_ascension": "05h 01m 50.35s",
+        "declination": "+00\u00b0 43\u2032 19.8\u2033",
+        "apparent_magnitude": "5.91",
+        "absolute_magnitude": "\u22120.01",
+        "distance_light_year": "498",
+        "spectral_class": "K0"
+    },
+    {
+        "name": "HD 43112",
+        "constellation": "Orion",
+        "right_ascension": "06h 15m 08.46s",
+        "declination": "+13\u00b0 51\u2032 03.9\u2033",
+        "apparent_magnitude": "5.91",
+        "absolute_magnitude": "\u22122.21",
+        "distance_light_year": "1370",
+        "spectral_class": "B1V"
+    },
+    {
+        "name": "HD 36780",
+        "constellation": "Orion",
+        "right_ascension": "05h 34m 04.06s",
+        "declination": "\u221201\u00b0 28\u2032 12.7\u2033",
+        "apparent_magnitude": "5.92",
+        "absolute_magnitude": "\u22121.14",
+        "distance_light_year": "842",
+        "spectral_class": "K5III"
+    },
+    {
+        "name": "57 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 54m 56.69s",
+        "declination": "+19\u00b0 44\u2032 58.6\u2033",
+        "apparent_magnitude": "5.92",
+        "absolute_magnitude": "\u22122.25",
+        "distance_light_year": "1405",
+        "spectral_class": "B2V"
+    },
+    {
+        "name": "HD 36162",
+        "constellation": "Orion",
+        "right_ascension": "05h 30m 26.17s",
+        "declination": "+15\u00b0 21\u2032 38.0\u2033",
+        "apparent_magnitude": "5.93",
+        "absolute_magnitude": "0.81",
+        "distance_light_year": "344",
+        "spectral_class": "A3Vn"
+    },
+    {
+        "name": "HD 37788",
+        "constellation": "Orion",
+        "right_ascension": "05h 41m 05.59s",
+        "declination": "+00\u00b0 20\u2032 15.7\u2033",
+        "apparent_magnitude": "5.93",
+        "absolute_magnitude": "2.38",
+        "distance_light_year": "168",
+        "spectral_class": "F0IV"
+    },
+    {
+        "name": "HD 38529",
+        "constellation": "Orion",
+        "right_ascension": "05h 46m 34.96s",
+        "declination": "+01\u00b0 10\u2032 06.7\u2033",
+        "apparent_magnitude": "5.94",
+        "absolute_magnitude": "2.80",
+        "distance_light_year": "138",
+        "spectral_class": "G4V"
+    },
+    {
+        "name": "HD 39421",
+        "constellation": "Orion",
+        "right_ascension": "05h 52m 07.73s",
+        "declination": "\u221209\u00b0 02\u2032 31.1\u2033",
+        "apparent_magnitude": "5.95",
+        "absolute_magnitude": "0.62",
+        "distance_light_year": "379",
+        "spectral_class": "A2Vn"
+    },
+    {
+        "name": "HD 37481",
+        "constellation": "Orion",
+        "right_ascension": "05h 38m 37.97s",
+        "declination": "\u221206\u00b0 34\u2032 26.2\u2033",
+        "apparent_magnitude": "5.96",
+        "absolute_magnitude": "\u22122.45",
+        "distance_light_year": "1567",
+        "spectral_class": "B1.5IV"
+    },
+    {
+        "name": "HD 39051",
+        "constellation": "Orion",
+        "right_ascension": "05h 50m 13.06s",
+        "declination": "+04\u00b0 25\u2032 24.6\u2033",
+        "apparent_magnitude": "5.96",
+        "absolute_magnitude": "0.00",
+        "distance_light_year": "507",
+        "spectral_class": "K2III"
+    },
+    {
+        "name": "HD 39286",
+        "constellation": "Orion",
+        "right_ascension": "05h 52m 23.41s",
+        "declination": "+19\u00b0 52\u2032 04.3\u2033",
+        "apparent_magnitude": "5.96",
+        "absolute_magnitude": "\u22122.16",
+        "distance_light_year": "1370",
+        "spectral_class": "B9V + G"
+    },
+    {
+        "name": "HD 37171",
+        "constellation": "Orion",
+        "right_ascension": "05h 37m 04.35s",
+        "declination": "+11\u00b0 02\u2032 06.2\u2033",
+        "apparent_magnitude": "5.97",
+        "absolute_magnitude": "\u22121.04",
+        "distance_light_year": "821",
+        "spectral_class": "K4II SB"
+    },
+    {
+        "name": "HD 38089",
+        "constellation": "Orion",
+        "right_ascension": "05h 42m 53.91s",
+        "declination": "\u221206\u00b0 47\u2032 46.7\u2033",
+        "apparent_magnitude": "5.97",
+        "absolute_magnitude": "2.47",
+        "distance_light_year": "163",
+        "spectral_class": "F3V"
+    },
+    {
+        "name": "HD 38858",
+        "constellation": "Orion",
+        "right_ascension": "05h 48m 34.90s",
+        "declination": "\u221204\u00b0 05\u2032 38.7\u2033",
+        "apparent_magnitude": "5.97",
+        "absolute_magnitude": "5.01",
+        "distance_light_year": "51",
+        "spectral_class": "G4V"
+    },
+    {
+        "name": "HD 39118",
+        "constellation": "Orion",
+        "right_ascension": "05h 50m 30.03s",
+        "declination": "+02\u00b0 01\u2032 29.0\u2033",
+        "apparent_magnitude": "5.97",
+        "absolute_magnitude": "\u22121.73",
+        "distance_light_year": "1128",
+        "spectral_class": "G8III+..."
+    },
+    {
+        "name": "HD 39885",
+        "constellation": "Orion",
+        "right_ascension": "05h 56m 28.04s",
+        "declination": "+09\u00b0 30\u2032 33.9\u2033",
+        "apparent_magnitude": "5.97",
+        "absolute_magnitude": "\u22120.68",
+        "distance_light_year": "697",
+        "spectral_class": "A0IV"
+    },
+    {
+        "name": "HD 31331",
+        "constellation": "Orion",
+        "right_ascension": "04h 54m 50.71s",
+        "declination": "+00\u00b0 28\u2032 01.8\u2033",
+        "apparent_magnitude": "5.98",
+        "absolute_magnitude": "\u22121.38",
+        "distance_light_year": "964",
+        "spectral_class": "B5V"
+    },
+    {
+        "name": "HD 35281",
+        "constellation": "Orion",
+        "right_ascension": "05h 23m 18.51s",
+        "declination": "\u221208\u00b0 24\u2032 56.1\u2033",
+        "apparent_magnitude": "5.99",
+        "absolute_magnitude": "0.09",
+        "distance_light_year": "493",
+        "spectral_class": "B8+..."
+    },
+    {
+        "name": "HD 37594",
+        "constellation": "Orion",
+        "right_ascension": "05h 39m 31.15s",
+        "declination": "\u221203\u00b0 33\u2032 53.0\u2033",
+        "apparent_magnitude": "5.99",
+        "absolute_magnitude": "2.91",
+        "distance_light_year": "135",
+        "spectral_class": "A8Vs"
+    },
+    {
+        "name": "HD 39775",
+        "constellation": "Orion",
+        "right_ascension": "05h 54m 44.04s",
+        "declination": "+00\u00b0 58\u2032 07.0\u2033",
+        "apparent_magnitude": "5.99",
+        "absolute_magnitude": "\u22121.03",
+        "distance_light_year": "827",
+        "spectral_class": "K0III"
+    },
+    {
+        "name": "HD 44497",
+        "constellation": "Orion",
+        "right_ascension": "06h 22m 36.42s",
+        "declination": "+12\u00b0 34\u2032 13.1\u2033",
+        "apparent_magnitude": "6.00",
+        "absolute_magnitude": "2.00",
+        "distance_light_year": "205",
+        "spectral_class": "F0III"
+    },
+    {
+        "name": "HD 37303",
+        "constellation": "Orion",
+        "right_ascension": "05h 37m 27.36s",
+        "declination": "\u221205\u00b0 56\u2032 18.2\u2033",
+        "apparent_magnitude": "6.03",
+        "absolute_magnitude": "\u22122.07",
+        "distance_light_year": "1358",
+        "spectral_class": "B1Vvar"
+    },
+    {
+        "name": "HD 30545",
+        "constellation": "Orion",
+        "right_ascension": "04h 48m 44.63s",
+        "declination": "+03\u00b0 35\u2032 18.8\u2033",
+        "apparent_magnitude": "6.04",
+        "absolute_magnitude": "\u22120.64",
+        "distance_light_year": "707",
+        "spectral_class": "K1III"
+    },
+    {
+        "name": "HD 32686",
+        "constellation": "Orion",
+        "right_ascension": "05h 04m 54.53s",
+        "declination": "\u221203\u00b0 02\u2032 22.8\u2033",
+        "apparent_magnitude": "6.04",
+        "absolute_magnitude": "\u22123.83",
+        "distance_light_year": "3075",
+        "spectral_class": "B5IV"
+    },
+    {
+        "name": "V1031 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 47m 26.90s",
+        "declination": "\u221210\u00b0 31\u2032 58.5\u2033",
+        "apparent_magnitude": "6.04",
+        "absolute_magnitude": "\u22120.47",
+        "distance_light_year": "653",
+        "spectral_class": "A4V"
+    },
+    {
+        "name": "HD 42477",
+        "constellation": "Orion",
+        "right_ascension": "06h 11m 27.91s",
+        "declination": "+13\u00b0 38\u2032 19.0\u2033",
+        "apparent_magnitude": "6.04",
+        "absolute_magnitude": "0.44",
+        "distance_light_year": "430",
+        "spectral_class": "A0Vnn"
+    },
+    {
+        "name": "HD 43285",
+        "constellation": "Orion",
+        "right_ascension": "06h 15m 40.18s",
+        "declination": "+06\u00b0 03\u2032 58.3\u2033",
+        "apparent_magnitude": "6.07",
+        "absolute_magnitude": "\u22120.72",
+        "distance_light_year": "743",
+        "spectral_class": "B6V"
+    },
+    {
+        "name": "HD 33883",
+        "constellation": "Orion",
+        "right_ascension": "05h 13m 31.55s",
+        "declination": "+01\u00b0 58\u2032 03.7\u2033",
+        "apparent_magnitude": "6.08",
+        "absolute_magnitude": "\u22121.07",
+        "distance_light_year": "879",
+        "spectral_class": "A5V"
+    },
+    {
+        "name": "HD 38309",
+        "constellation": "Orion",
+        "right_ascension": "05h 45m 01.80s",
+        "declination": "+04\u00b0 00\u2032 29.5\u2033",
+        "apparent_magnitude": "6.09",
+        "absolute_magnitude": "2.57",
+        "distance_light_year": "165",
+        "spectral_class": "F0III:n"
+    },
+    {
+        "name": "HD 41076",
+        "constellation": "Orion",
+        "right_ascension": "06h 03m 24.77s",
+        "declination": "+11\u00b0 40\u2032 51.9\u2033",
+        "apparent_magnitude": "6.09",
+        "absolute_magnitude": "0.25",
+        "distance_light_year": "480",
+        "spectral_class": "A0Vs"
+    },
+    {
+        "name": "W Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 05m 23.71s",
+        "declination": "+01\u00b0 10\u2032 39.5\u2033",
+        "apparent_magnitude": "6.10",
+        "absolute_magnitude": "\u22120.56",
+        "distance_light_year": "700",
+        "spectral_class": "C"
+    },
+    {
+        "name": "HD 30870",
+        "constellation": "Orion",
+        "right_ascension": "04h 51m 43.38s",
+        "declination": "+09\u00b0 58\u2032 30.3\u2033",
+        "apparent_magnitude": "6.11",
+        "absolute_magnitude": "\u22120.56",
+        "distance_light_year": "704",
+        "spectral_class": "B5V"
+    },
+    {
+        "name": "HD 33419",
+        "constellation": "Orion",
+        "right_ascension": "05h 10m 03.26s",
+        "declination": "\u221200\u00b0 33\u2032 54.7\u2033",
+        "apparent_magnitude": "6.11",
+        "absolute_magnitude": "1.19",
+        "distance_light_year": "314",
+        "spectral_class": "K0III"
+    },
+    {
+        "name": "HD 37232",
+        "constellation": "Orion",
+        "right_ascension": "05h 37m 19.31s",
+        "declination": "+08\u00b0 57\u2032 06.8\u2033",
+        "apparent_magnitude": "6.11",
+        "absolute_magnitude": "\u22121.01",
+        "distance_light_year": "867",
+        "spectral_class": "B2IV-V"
+    },
+    {
+        "name": "HD 43683",
+        "constellation": "Orion",
+        "right_ascension": "06h 18m 05.61s",
+        "declination": "+14\u00b0 22\u2032 58.3\u2033",
+        "apparent_magnitude": "6.12",
+        "absolute_magnitude": "\u22120.33",
+        "distance_light_year": "637",
+        "spectral_class": "A3V"
+    },
+    {
+        "name": "HD 35317",
+        "constellation": "Orion",
+        "right_ascension": "05h 23m 51.33s",
+        "declination": "\u221200\u00b0 51\u2032 59.8\u2033",
+        "apparent_magnitude": "6.13",
+        "absolute_magnitude": "2.31",
+        "distance_light_year": "189",
+        "spectral_class": "F7V"
+    },
+    {
+        "name": "HD 39632",
+        "constellation": "Orion",
+        "right_ascension": "05h 54m 13.35s",
+        "declination": "+10\u00b0 35\u2032 11.1\u2033",
+        "apparent_magnitude": "6.13",
+        "absolute_magnitude": "\u22122.15",
+        "distance_light_year": "1475",
+        "spectral_class": "G9II"
+    },
+    {
+        "name": "HD 31764",
+        "constellation": "Orion",
+        "right_ascension": "04h 58m 59.41s",
+        "declination": "+14\u00b0 32\u2032 35.7\u2033",
+        "apparent_magnitude": "6.14",
+        "absolute_magnitude": "\u22120.43",
+        "distance_light_year": "671",
+        "spectral_class": "B7V"
+    },
+    {
+        "name": "13 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 07m 38.32s",
+        "declination": "+09\u00b0 28\u2032 21.8\u2033",
+        "apparent_magnitude": "6.15",
+        "absolute_magnitude": "3.89",
+        "distance_light_year": "92",
+        "spectral_class": "G1IV"
+    },
+    {
+        "name": "HD 34180",
+        "constellation": "Orion",
+        "right_ascension": "05h 15m 18.52s",
+        "declination": "\u221201\u00b0 24\u2032 32.6\u2033",
+        "apparent_magnitude": "6.15",
+        "absolute_magnitude": "2.84",
+        "distance_light_year": "150",
+        "spectral_class": "F0IV"
+    },
+    {
+        "name": "HD 36558",
+        "constellation": "Orion",
+        "right_ascension": "05h 32m 37.97s",
+        "declination": "+00\u00b0 00\u2032 43.1\u2033",
+        "apparent_magnitude": "6.15",
+        "absolute_magnitude": "\u22122.16",
+        "distance_light_year": "1495",
+        "spectral_class": "K5"
+    },
+    {
+        "name": "HD 37356",
+        "constellation": "Orion",
+        "right_ascension": "05h 37m 53.39s",
+        "declination": "\u221204\u00b0 48\u2032 50.5\u2033",
+        "apparent_magnitude": "6.16",
+        "absolute_magnitude": "\u22121.52",
+        "distance_light_year": "1120",
+        "spectral_class": "B2IV-V"
+    },
+    {
+        "name": "HD 35588",
+        "constellation": "Orion",
+        "right_ascension": "05h 25m 47.02s",
+        "declination": "+00\u00b0 31\u2032 12.9\u2033",
+        "apparent_magnitude": "6.18",
+        "absolute_magnitude": "\u22122.25",
+        "distance_light_year": "1583",
+        "spectral_class": "B2.5V"
+    },
+    {
+        "name": "HD 35693",
+        "constellation": "Orion",
+        "right_ascension": "05h 27m 13.90s",
+        "declination": "+15\u00b0 15\u2032 27.6\u2033",
+        "apparent_magnitude": "6.18",
+        "absolute_magnitude": "0.43",
+        "distance_light_year": "461",
+        "spectral_class": "A1IV"
+    },
+    {
+        "name": "CK Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 30m 19.91s",
+        "declination": "+04\u00b0 12\u2032 17.5\u2033",
+        "apparent_magnitude": "6.21",
+        "absolute_magnitude": "\u22120.02",
+        "distance_light_year": "574",
+        "spectral_class": "K2III"
+    },
+    {
+        "name": "HD 40347",
+        "constellation": "Orion",
+        "right_ascension": "05h 58m 11.70s",
+        "declination": "\u221200\u00b0 59\u2032 38.3\u2033",
+        "apparent_magnitude": "6.21",
+        "absolute_magnitude": "0.77",
+        "distance_light_year": "400",
+        "spectral_class": "K0"
+    },
+    {
+        "name": "HD 37744",
+        "constellation": "Orion",
+        "right_ascension": "05h 40m 37.29s",
+        "declination": "\u221202\u00b0 49\u2032 30.9\u2033",
+        "apparent_magnitude": "6.22",
+        "absolute_magnitude": "\u22122.34",
+        "distance_light_year": "1680",
+        "spectral_class": "B1.5V"
+    },
+    {
+        "name": "HD 40282",
+        "constellation": "Orion",
+        "right_ascension": "05h 57m 54.51s",
+        "declination": "+01\u00b0 13\u2032 27.5\u2033",
+        "apparent_magnitude": "6.22",
+        "absolute_magnitude": "0.21",
+        "distance_light_year": "519",
+        "spectral_class": "M0III"
+    },
+    {
+        "name": "HD 36430",
+        "constellation": "Orion",
+        "right_ascension": "05h 31m 20.89s",
+        "declination": "\u221206\u00b0 42\u2032 30.2\u2033",
+        "apparent_magnitude": "6.23",
+        "absolute_magnitude": "\u22122.43",
+        "distance_light_year": "1762",
+        "spectral_class": "B2V"
+    },
+    {
+        "name": "HD 33555",
+        "constellation": "Orion",
+        "right_ascension": "05h 10m 57.97s",
+        "declination": "\u221202\u00b0 15\u2032 13.5\u2033",
+        "apparent_magnitude": "6.24",
+        "absolute_magnitude": "2.82",
+        "distance_light_year": "158",
+        "spectral_class": "G8III"
+    },
+    {
+        "name": "HD 35640",
+        "constellation": "Orion",
+        "right_ascension": "05h 26m 02.36s",
+        "declination": "\u221205\u00b0 31\u2032 06.6\u2033",
+        "apparent_magnitude": "6.24",
+        "absolute_magnitude": "\u22120.31",
+        "distance_light_year": "667",
+        "spectral_class": "B9.5Vn"
+    },
+    {
+        "name": "HD 36779",
+        "constellation": "Orion",
+        "right_ascension": "05h 34m 03.89s",
+        "declination": "\u221201\u00b0 02\u2032 08.6\u2033",
+        "apparent_magnitude": "6.24",
+        "absolute_magnitude": "\u22121.66",
+        "distance_light_year": "1240",
+        "spectral_class": "B2.5V"
+    },
+    {
+        "name": "HD 37016",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 22.32s",
+        "declination": "\u221204\u00b0 25\u2032 27.6\u2033",
+        "apparent_magnitude": "6.24",
+        "absolute_magnitude": "\u22121.46",
+        "distance_light_year": "1128",
+        "spectral_class": "B2.5V"
+    },
+    {
+        "name": "HD 38495",
+        "constellation": "Orion",
+        "right_ascension": "05h 46m 02.86s",
+        "declination": "\u221204\u00b0 16\u2032 05.9\u2033",
+        "apparent_magnitude": "6.24",
+        "absolute_magnitude": "0.96",
+        "distance_light_year": "371",
+        "spectral_class": "K1III..."
+    },
+    {
+        "name": "HD 43821",
+        "constellation": "Orion",
+        "right_ascension": "06h 18m 40.35s",
+        "declination": "+09\u00b0 02\u2032 50.2\u2033",
+        "apparent_magnitude": "6.24",
+        "absolute_magnitude": "1.11",
+        "distance_light_year": "346",
+        "spectral_class": "K0"
+    },
+    {
+        "name": "HD 31623",
+        "constellation": "Orion",
+        "right_ascension": "04h 57m 17.21s",
+        "declination": "\u221201\u00b0 04\u2032 01.9\u2033",
+        "apparent_magnitude": "6.25",
+        "absolute_magnitude": "1.63",
+        "distance_light_year": "274",
+        "spectral_class": "F2"
+    },
+    {
+        "name": "HD 36840",
+        "constellation": "Orion",
+        "right_ascension": "05h 34m 29.29s",
+        "declination": "\u221200\u00b0 00\u2032 44.4\u2033",
+        "apparent_magnitude": "6.25",
+        "absolute_magnitude": "\u22121.63",
+        "distance_light_year": "1230",
+        "spectral_class": "G5"
+    },
+    {
+        "name": "HD 39927",
+        "constellation": "Orion",
+        "right_ascension": "05h 55m 35.38s",
+        "declination": "\u221204\u00b0 47\u2032 18.7\u2033",
+        "apparent_magnitude": "6.28",
+        "absolute_magnitude": "1.32",
+        "distance_light_year": "321",
+        "spectral_class": "A2III"
+    },
+    {
+        "name": "HD 30869",
+        "constellation": "Orion",
+        "right_ascension": "04h 51m 49.92s",
+        "declination": "+13\u00b0 39\u2032 18.7\u2033",
+        "apparent_magnitude": "6.30",
+        "absolute_magnitude": "3.19",
+        "distance_light_year": "136",
+        "spectral_class": "F5"
+    },
+    {
+        "name": "HD 39685",
+        "constellation": "Orion",
+        "right_ascension": "05h 54m 15.72s",
+        "declination": "+03\u00b0 13\u2032 32.8\u2033",
+        "apparent_magnitude": "6.30",
+        "absolute_magnitude": "0.16",
+        "distance_light_year": "552",
+        "spectral_class": "K0"
+    },
+    {
+        "name": "BL Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 25m 28.18s",
+        "declination": "+14\u00b0 43\u2032 19.2\u2033",
+        "apparent_magnitude": "6.30",
+        "absolute_magnitude": "\u22121.70",
+        "distance_light_year": "1299",
+        "spectral_class": "C"
+    },
+    {
+        "name": "HD 32115",
+        "constellation": "Orion",
+        "right_ascension": "05h 00m 39.82s",
+        "declination": "\u221202\u00b0 03\u2032 57.7\u2033",
+        "apparent_magnitude": "6.31",
+        "absolute_magnitude": "2.83",
+        "distance_light_year": "162",
+        "spectral_class": "A8IV"
+    },
+    {
+        "name": "V1197 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 43m 09.32s",
+        "declination": "\u221201\u00b0 36\u2032 47.4\u2033",
+        "apparent_magnitude": "6.31",
+        "absolute_magnitude": "\u22120.28",
+        "distance_light_year": "679",
+        "spectral_class": "K4III"
+    },
+    {
+        "name": "HD 43819",
+        "constellation": "Orion",
+        "right_ascension": "06h 19m 01.85s",
+        "declination": "+17\u00b0 19\u2032 31.0\u2033",
+        "apparent_magnitude": "6.32",
+        "absolute_magnitude": "\u22120.11",
+        "distance_light_year": "631",
+        "spectral_class": "B9IIIsp..."
+    },
+    {
+        "name": "HD 30321",
+        "constellation": "Orion",
+        "right_ascension": "04h 46m 24.15s",
+        "declination": "\u221202\u00b0 57\u2032 15.8\u2033",
+        "apparent_magnitude": "6.33",
+        "absolute_magnitude": "1.68",
+        "distance_light_year": "277",
+        "spectral_class": "A2V"
+    },
+    {
+        "name": "HD 33946",
+        "constellation": "Orion",
+        "right_ascension": "05h 13m 47.25s",
+        "declination": "+00\u00b0 33\u2032 37.7\u2033",
+        "apparent_magnitude": "6.33",
+        "absolute_magnitude": "\u22120.70",
+        "distance_light_year": "832",
+        "spectral_class": "M0V"
+    },
+    {
+        "name": "HD 34648",
+        "constellation": "Orion",
+        "right_ascension": "05h 19m 35.28s",
+        "declination": "\u221201\u00b0 24\u2032 42.8\u2033",
+        "apparent_magnitude": "6.33",
+        "absolute_magnitude": "\u22122.45",
+        "distance_light_year": "1863",
+        "spectral_class": "B1.5Vn"
+    },
+    {
+        "name": "HD 35407",
+        "constellation": "Orion",
+        "right_ascension": "05h 24m 36.10s",
+        "declination": "+02\u00b0 21\u2032 11.4\u2033",
+        "apparent_magnitude": "6.33",
+        "absolute_magnitude": "\u22121.55",
+        "distance_light_year": "1226",
+        "spectral_class": "B4IVn"
+    },
+    {
+        "name": "HD 36285",
+        "constellation": "Orion",
+        "right_ascension": "05h 30m 20.75s",
+        "declination": "\u221207\u00b0 26\u2032 05.3\u2033",
+        "apparent_magnitude": "6.33",
+        "absolute_magnitude": "\u22121.53",
+        "distance_light_year": "1216",
+        "spectral_class": "B2IV-V"
+    },
+    {
+        "name": "HD 31739",
+        "constellation": "Orion",
+        "right_ascension": "04h 58m 10.90s",
+        "declination": "\u221202\u00b0 12\u2032 46.0\u2033",
+        "apparent_magnitude": "6.34",
+        "absolute_magnitude": "0.62",
+        "distance_light_year": "454",
+        "spectral_class": "A2V"
+    },
+    {
+        "name": "V1649 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 23m 31.08s",
+        "declination": "+05\u00b0 19\u2032 23.0\u2033",
+        "apparent_magnitude": "6.34",
+        "absolute_magnitude": "1.96",
+        "distance_light_year": "245",
+        "spectral_class": "A2V"
+    },
+    {
+        "name": "HD 35909",
+        "constellation": "Orion",
+        "right_ascension": "05h 28m 34.77s",
+        "declination": "+13\u00b0 40\u2032 44.5\u2033",
+        "apparent_magnitude": "6.35",
+        "absolute_magnitude": "1.38",
+        "distance_light_year": "322",
+        "spectral_class": "A4V"
+    },
+    {
+        "name": "HD 44867",
+        "constellation": "Orion",
+        "right_ascension": "06h 24m 52.76s",
+        "declination": "+16\u00b0 03\u2032 26.0\u2033",
+        "apparent_magnitude": "6.35",
+        "absolute_magnitude": "0.99",
+        "distance_light_year": "385",
+        "spectral_class": "G9III"
+    },
+    {
+        "name": "HD 35775",
+        "constellation": "Orion",
+        "right_ascension": "05h 27m 15.40s",
+        "declination": "+02\u00b0 20\u2032 28.3\u2033",
+        "apparent_magnitude": "6.36",
+        "absolute_magnitude": "0.78",
+        "distance_light_year": "425",
+        "spectral_class": "K0"
+    },
+    {
+        "name": "HD 42351",
+        "constellation": "Orion",
+        "right_ascension": "06h 11m 01.77s",
+        "declination": "+18\u00b0 07\u2032 49.7\u2033",
+        "apparent_magnitude": "6.37",
+        "absolute_magnitude": "\u22123.18",
+        "distance_light_year": "2650",
+        "spectral_class": "K1II"
+    },
+    {
+        "name": "HD 43358",
+        "constellation": "Orion",
+        "right_ascension": "06h 15m 53.98s",
+        "declination": "+01\u00b0 10\u2032 08.4\u2033",
+        "apparent_magnitude": "6.37",
+        "absolute_magnitude": "1.53",
+        "distance_light_year": "303",
+        "spectral_class": "F5IV:"
+    },
+    {
+        "name": "HD 36058",
+        "constellation": "Orion",
+        "right_ascension": "05h 28m 56.91s",
+        "declination": "\u221203\u00b0 18\u2032 26.7\u2033",
+        "apparent_magnitude": "6.39",
+        "absolute_magnitude": "\u22120.45",
+        "distance_light_year": "762",
+        "spectral_class": "A0Vn"
+    },
+    {
+        "name": "\u03b82 Ori B",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 26.40s",
+        "declination": "\u221205\u00b0 25\u2032 00.7\u2033",
+        "apparent_magnitude": "6.38",
+        "absolute_magnitude": "",
+        "distance_light_year": "1895",
+        "spectral_class": "B2-B5"
+    },
+    {
+        "name": "HD 43335",
+        "constellation": "Orion",
+        "right_ascension": "06h 16m 23.79s",
+        "declination": "+17\u00b0 10\u2032 53.9\u2033",
+        "apparent_magnitude": "6.39",
+        "absolute_magnitude": "\u22120.35",
+        "distance_light_year": "728",
+        "spectral_class": "K5II"
+    },
+    {
+        "name": "HD 34880",
+        "constellation": "Orion",
+        "right_ascension": "05h 20m 26.41s",
+        "declination": "\u221205\u00b0 22\u2032 03.1\u2033",
+        "apparent_magnitude": "6.40",
+        "absolute_magnitude": "\u22120.19",
+        "distance_light_year": "679",
+        "spectral_class": "B8III"
+    },
+    {
+        "name": "V1377 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 35.90s",
+        "declination": "\u221203\u00b0 15\u2032 10.2\u2033",
+        "apparent_magnitude": "6.40",
+        "absolute_magnitude": "\u22123.12",
+        "distance_light_year": "2608",
+        "spectral_class": "B3IV"
+    },
+    {
+        "name": "HD 35656",
+        "constellation": "Orion",
+        "right_ascension": "05h 26m 38.82s",
+        "declination": "+06\u00b0 52\u2032 07.5\u2033",
+        "apparent_magnitude": "6.41",
+        "absolute_magnitude": "1.55",
+        "distance_light_year": "305",
+        "spectral_class": "A0Vn"
+    },
+    {
+        "name": "HD 35912",
+        "constellation": "Orion",
+        "right_ascension": "05h 28m 01.47s",
+        "declination": "+01\u00b0 17\u2032 53.7\u2033",
+        "apparent_magnitude": "6.41",
+        "absolute_magnitude": "\u22121.35",
+        "distance_light_year": "1160",
+        "spectral_class": "B2V"
+    },
+    {
+        "name": "HD 37904",
+        "constellation": "Orion",
+        "right_ascension": "05h 41m 40.31s",
+        "declination": "\u221202\u00b0 53\u2032 47.5\u2033",
+        "apparent_magnitude": "6.41",
+        "absolute_magnitude": "1.80",
+        "distance_light_year": "273",
+        "spectral_class": "A9IV-V"
+    },
+    {
+        "name": "HD 31423",
+        "constellation": "Orion",
+        "right_ascension": "04h 56m 09.02s",
+        "declination": "+07\u00b0 54\u2032 17.3\u2033",
+        "apparent_magnitude": "6.42",
+        "absolute_magnitude": "2.57",
+        "distance_light_year": "192",
+        "spectral_class": "F5"
+    },
+    {
+        "name": "HD 34317",
+        "constellation": "Orion",
+        "right_ascension": "05h 16m 41.05s",
+        "declination": "+01\u00b0 56\u2032 50.4\u2033",
+        "apparent_magnitude": "6.42",
+        "absolute_magnitude": "0.07",
+        "distance_light_year": "608",
+        "spectral_class": "A0V"
+    },
+    {
+        "name": "HD 34878",
+        "constellation": "Orion",
+        "right_ascension": "05h 20m 43.74s",
+        "declination": "+02\u00b0 32\u2032 41.0\u2033",
+        "apparent_magnitude": "6.43",
+        "absolute_magnitude": "0.91",
+        "distance_light_year": "415",
+        "spectral_class": "G8IV"
+    },
+    {
+        "name": "V1357 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 13m 12.46s",
+        "declination": "+10\u00b0 37\u2032 40.3\u2033",
+        "apparent_magnitude": "6.44",
+        "absolute_magnitude": "5.15",
+        "distance_light_year": "59",
+        "spectral_class": "G8V"
+    },
+    {
+        "name": "HD 35575",
+        "constellation": "Orion",
+        "right_ascension": "05h 25m 36.50s",
+        "declination": "\u221201\u00b0 29\u2032 28.7\u2033",
+        "apparent_magnitude": "6.44",
+        "absolute_magnitude": "\u22120.49",
+        "distance_light_year": "791",
+        "spectral_class": "B3V"
+    },
+    {
+        "name": "HD 32273",
+        "constellation": "Orion",
+        "right_ascension": "05h 02m 00.03s",
+        "declination": "+01\u00b0 36\u2032 31.8\u2033",
+        "apparent_magnitude": "6.45",
+        "absolute_magnitude": "0.49",
+        "distance_light_year": "508",
+        "spectral_class": "B8V"
+    },
+    {
+        "name": "HD 36814",
+        "constellation": "Orion",
+        "right_ascension": "05h 34m 02.48s",
+        "declination": "\u221207\u00b0 01\u2032 25.1\u2033",
+        "apparent_magnitude": "6.45",
+        "absolute_magnitude": "0.00",
+        "distance_light_year": "637",
+        "spectral_class": "K0"
+    },
+    {
+        "name": "V1389 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 12m 59.57s",
+        "declination": "+06\u00b0 00\u2032 58.6\u2033",
+        "apparent_magnitude": "6.45",
+        "absolute_magnitude": "\u22120.24",
+        "distance_light_year": "709",
+        "spectral_class": "M..."
+    },
+    {
+        "name": "HD 37808",
+        "constellation": "Orion",
+        "right_ascension": "05h 40m 46.19s",
+        "declination": "\u221210\u00b0 24\u2032 31.2\u2033",
+        "apparent_magnitude": "6.46",
+        "absolute_magnitude": "0.38",
+        "distance_light_year": "536",
+        "spectral_class": "B9.5IIIp Si"
+    },
+    {
+        "name": "V1369 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 21m 19.31s",
+        "declination": "+04\u00b0 00\u2032 43.1\u2033",
+        "apparent_magnitude": "6.49",
+        "absolute_magnitude": "\u22121.42",
+        "distance_light_year": "1244",
+        "spectral_class": "B5Vp"
+    },
+    {
+        "name": "HD 36150",
+        "constellation": "Orion",
+        "right_ascension": "05h 29m 41.59s",
+        "declination": "\u221200\u00b0 48\u2032 08.7\u2033",
+        "apparent_magnitude": "6.49",
+        "absolute_magnitude": "1.09",
+        "distance_light_year": "391",
+        "spectral_class": "A2"
+    },
+    {
+        "name": "HD 37635",
+        "constellation": "Orion",
+        "right_ascension": "05h 39m 30.84s",
+        "declination": "\u221209\u00b0 42\u2032 23.8\u2033",
+        "apparent_magnitude": "6.49",
+        "absolute_magnitude": "0.29",
+        "distance_light_year": "566",
+        "spectral_class": "B7V"
+    },
+    {
+        "name": "HD 31411",
+        "constellation": "Orion",
+        "right_ascension": "04h 55m 58.36s",
+        "declination": "+05\u00b0 23\u2032 56.6\u2033",
+        "apparent_magnitude": "6.50",
+        "absolute_magnitude": "0.62",
+        "distance_light_year": "489",
+        "spectral_class": "A0V"
+    },
+    {
+        "name": "HD 37150",
+        "constellation": "Orion",
+        "right_ascension": "05h 36m 15.03s",
+        "declination": "\u221205\u00b0 38\u2032 52.5\u2033",
+        "apparent_magnitude": "6.51",
+        "absolute_magnitude": "",
+        "distance_light_year": "1270",
+        "spectral_class": "B3Vv"
+    },
+    {
+        "name": "HD 37808",
+        "constellation": "Orion",
+        "right_ascension": "05h 40m 46.19s",
+        "declination": "\u221210\u00b0 24\u2032 31.19\u2033",
+        "apparent_magnitude": "6.52",
+        "absolute_magnitude": "",
+        "distance_light_year": "793",
+        "spectral_class": "B9.5IIIsp..."
+    },
+    {
+        "name": "HD 37017",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 21.87s",
+        "declination": "\u221204\u00b0 29\u2032 39.02\u2033",
+        "apparent_magnitude": "6.56",
+        "absolute_magnitude": "",
+        "distance_light_year": "1240",
+        "spectral_class": "B1.5V"
+    },
+    {
+        "name": "\u03c3 Ori E",
+        "constellation": "Orion",
+        "right_ascension": "05h 38m 47.19s",
+        "declination": "\u221202\u00b0 35\u2032 40.5\u2033",
+        "apparent_magnitude": "6.61",
+        "absolute_magnitude": "",
+        "distance_light_year": "1148",
+        "spectral_class": "B2Vp"
+    },
+    {
+        "name": "HD 43317",
+        "constellation": "Orion",
+        "right_ascension": "06h 15m 47.01s",
+        "declination": "+04\u00b0 17\u2032 01.1\u2033",
+        "apparent_magnitude": "6.62",
+        "absolute_magnitude": "",
+        "distance_light_year": "1200",
+        "spectral_class": "B3IV"
+    },
+    {
+        "name": "\u03c3 Ori D",
+        "constellation": "Orion",
+        "right_ascension": "05h 38m 45.62s",
+        "declination": "\u221202\u00b0 35\u2032 58.9\u2033",
+        "apparent_magnitude": "6.62",
+        "absolute_magnitude": "",
+        "distance_light_year": "1148",
+        "spectral_class": "B2V"
+    },
+    {
+        "name": "\u03b81 Ori D",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 17.20s",
+        "declination": "\u221205\u00b0 23\u2032 15.7\u2033",
+        "apparent_magnitude": "6.71",
+        "absolute_magnitude": "",
+        "distance_light_year": "1600",
+        "spectral_class": "B1.5Vp"
+    },
+    {
+        "name": "\u03b81 Ori A",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 15.82s",
+        "declination": "\u221205\u00b0 23\u2032 14.3\u2033",
+        "apparent_magnitude": "6.73",
+        "absolute_magnitude": "",
+        "distance_light_year": "1600",
+        "spectral_class": "B0.5V"
+    },
+    {
+        "name": "HD 35155",
+        "constellation": "Orion",
+        "right_ascension": "05h 22m 18.64s",
+        "declination": "\u221208\u00b0 35\u2032 58.0\u2033",
+        "apparent_magnitude": "6.77",
+        "absolute_magnitude": "",
+        "distance_light_year": "939",
+        "spectral_class": "S4,1"
+    },
+    {
+        "name": "Mintaka C",
+        "constellation": "Orion",
+        "right_ascension": "05h 32m 00.50s",
+        "declination": "\u221200\u00b0 17\u2032 04.0\u2033",
+        "apparent_magnitude": "6.83",
+        "absolute_magnitude": "",
+        "distance_light_year": "916",
+        "spectral_class": "B2V"
+    },
+    {
+        "name": "HD 42618",
+        "constellation": "Orion",
+        "right_ascension": "06h 12m 01.0s",
+        "declination": "+06\u00b0 46\u2032 59\u2033",
+        "apparent_magnitude": "6.84",
+        "absolute_magnitude": "",
+        "distance_light_year": "77",
+        "spectral_class": "G4V"
+    },
+    {
+        "name": "KX Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 04.79s",
+        "declination": "\u221204\u00b0 43\u2032 54.6\u2033",
+        "apparent_magnitude": "6.90",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "B3V"
+    },
+    {
+        "name": "Gliese 205",
+        "constellation": "Orion",
+        "right_ascension": "05h 31m 27.50s",
+        "declination": "\u221203\u00b0 40\u2032 38.0\u2033",
+        "apparent_magnitude": "6.97",
+        "absolute_magnitude": "",
+        "distance_light_year": "19",
+        "spectral_class": "M1.5V"
+    },
+    {
+        "name": "V901 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 40m 56.37s",
+        "declination": "\u221201\u00b0 30\u2032 25.9\u2033",
+        "apparent_magnitude": "6.97",
+        "absolute_magnitude": "",
+        "distance_light_year": "1080",
+        "spectral_class": "B2IV"
+    },
+    {
+        "name": "HD 33636",
+        "constellation": "Orion",
+        "right_ascension": "05h 11m 46.45s",
+        "declination": "+04\u00b0 24\u2032 12.7\u2033",
+        "apparent_magnitude": "7.06",
+        "absolute_magnitude": "",
+        "distance_light_year": "92",
+        "spectral_class": "G0VCH-0.3"
+    },
+    {
+        "name": "HD 31253",
+        "constellation": "Orion",
+        "right_ascension": "04h 54m 44s",
+        "declination": "+12\u00b0 21\u2032 08\u2033",
+        "apparent_magnitude": "7.13",
+        "absolute_magnitude": "",
+        "distance_light_year": "175.5",
+        "spectral_class": "F8"
+    },
+    {
+        "name": "S Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 29m 00.89s",
+        "declination": "\u221204\u00b0 41\u2032 32.8\u2033",
+        "apparent_magnitude": "7.20",
+        "absolute_magnitude": "",
+        "distance_light_year": "3662",
+        "spectral_class": "M6.5-7.5e"
+    },
+    {
+        "name": "HD 37824",
+        "constellation": "Orion",
+        "right_ascension": "05h 41m 26.79s",
+        "declination": "+03\u00b0 46\u2032 40.9\u2033",
+        "apparent_magnitude": "7.2",
+        "absolute_magnitude": "",
+        "distance_light_year": "446",
+        "spectral_class": "G5"
+    },
+    {
+        "name": "HD 34137",
+        "constellation": "Orion",
+        "right_ascension": "05h 15m 11.87s",
+        "declination": "+01\u00b0 33\u2032 22.14\u2033",
+        "apparent_magnitude": "7.24",
+        "absolute_magnitude": "\u22120.34",
+        "distance_light_year": "2300",
+        "spectral_class": "K2III"
+    },
+    {
+        "name": "HD 37058",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 33.36s",
+        "declination": "\u221204\u00b0 50\u2032 15.2\u2033",
+        "apparent_magnitude": "7.30",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "B3Vp"
+    },
+    {
+        "name": "HD 34445",
+        "constellation": "Orion",
+        "right_ascension": "05h 17m 40.98s",
+        "declination": "+07\u00b0 21\u2032 12.0\u2033",
+        "apparent_magnitude": "7.31",
+        "absolute_magnitude": "3.97",
+        "distance_light_year": "152",
+        "spectral_class": "G0"
+    },
+    {
+        "name": "HD 37151",
+        "constellation": "Orion",
+        "right_ascension": "05h 36m 06.23s",
+        "declination": "\u221207\u00b0 43\u2032 27.3\u2033",
+        "apparent_magnitude": "7.37",
+        "absolute_magnitude": "",
+        "distance_light_year": "627",
+        "spectral_class": "B8V"
+    },
+    {
+        "name": "V1192 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 00m 08.22s",
+        "declination": "+03\u00b0 17\u2032 12.0\u2033",
+        "apparent_magnitude": "7.50",
+        "absolute_magnitude": "",
+        "distance_light_year": "721",
+        "spectral_class": "K2III"
+    },
+    {
+        "name": "HD 36629",
+        "constellation": "Orion",
+        "right_ascension": "05h 32m 57.08s",
+        "declination": "\u221204\u00b0 34\u2032 59.3\u2033",
+        "apparent_magnitude": "7.65",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "B2Vv"
+    },
+    {
+        "name": "HD 37903",
+        "constellation": "Orion",
+        "right_ascension": "05h 41m 38.39s",
+        "declination": "\u221202\u00b0 15\u2032 32.5\u2033",
+        "apparent_magnitude": "7.83",
+        "absolute_magnitude": "",
+        "distance_light_year": "970",
+        "spectral_class": "B1.5V"
+    },
+    {
+        "name": "HD 35298",
+        "constellation": "Orion",
+        "right_ascension": "05h 23m 50.36s",
+        "declination": "+02\u00b0 04\u2032 55.8\u2033",
+        "apparent_magnitude": "7.89",
+        "absolute_magnitude": "",
+        "distance_light_year": "1730",
+        "spectral_class": "B7IV"
+    },
+    {
+        "name": "HD 37806",
+        "constellation": "Orion",
+        "right_ascension": "05h 41m 02.29s",
+        "declination": "\u221202\u00b0 43\u2032 00.7\u2033",
+        "apparent_magnitude": "7.90",
+        "absolute_magnitude": "",
+        "distance_light_year": "1600",
+        "spectral_class": "A2Vpe"
+    },
+    {
+        "name": "\u03b81 Ori B",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 16.10s",
+        "declination": "\u221205\u00b0 23\u2032 07.0\u2033",
+        "apparent_magnitude": "7.96",
+        "absolute_magnitude": "",
+        "distance_light_year": "1600",
+        "spectral_class": "B1V"
+    },
+    {
+        "name": "HD 38677",
+        "constellation": "Orion",
+        "right_ascension": "05h 47m 06.0s",
+        "declination": "\u221210\u00b0 37\u2032 49\u2033",
+        "apparent_magnitude": "8.0",
+        "absolute_magnitude": "",
+        "distance_light_year": "202",
+        "spectral_class": "F8V"
+    },
+    {
+        "name": "V372 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 34m 46.98s",
+        "declination": "\u221205\u00b0 34\u2032 14.59\u2033",
+        "apparent_magnitude": "8.03",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A0V"
+    },
+    {
+        "name": "HD 36668",
+        "constellation": "Orion",
+        "right_ascension": "05h 33m 26.06s",
+        "declination": "+00\u00b0 37\u2032 16.9\u2033",
+        "apparent_magnitude": "8.06",
+        "absolute_magnitude": "",
+        "distance_light_year": "811",
+        "spectral_class": "B8V"
+    },
+    {
+        "name": "HD 38801",
+        "constellation": "Orion",
+        "right_ascension": "05h 47m 59.18s",
+        "declination": "\u221208\u00b0 19\u2032 39.7\u2033",
+        "apparent_magnitude": "8.26",
+        "absolute_magnitude": "3.47",
+        "distance_light_year": "296",
+        "spectral_class": "K0IV"
+    },
+    {
+        "name": "HD 39392",
+        "constellation": "Orion",
+        "right_ascension": "05h 53m 19.0s",
+        "declination": "+22\u00b0 04\u2032 20\u2033",
+        "apparent_magnitude": "8.38",
+        "absolute_magnitude": "",
+        "distance_light_year": "307",
+        "spectral_class": "F8"
+    },
+    {
+        "name": "RS Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 22m 13.19s",
+        "declination": "+14\u00b0 40\u2032 41.3\u2033",
+        "apparent_magnitude": "8.42",
+        "absolute_magnitude": "",
+        "distance_light_year": "4020",
+        "spectral_class": "F4Ib"
+    },
+    {
+        "name": "\u03c3 Ori C",
+        "constellation": "Orion",
+        "right_ascension": "05h 38m 44.12s",
+        "declination": "\u221202\u00b0 36\u2032 06.3\u2033",
+        "apparent_magnitude": "8.79",
+        "absolute_magnitude": "",
+        "distance_light_year": "1148",
+        "spectral_class": "A2V"
+    },
+    {
+        "name": "HD 37605",
+        "constellation": "Orion",
+        "right_ascension": "05h 40m 01.73s",
+        "declination": "+06\u00b0 03\u2032 38.1\u2033",
+        "apparent_magnitude": "8.69",
+        "absolute_magnitude": "5.53",
+        "distance_light_year": "140",
+        "spectral_class": "K0"
+    },
+    {
+        "name": "V351 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 44m 18.79s",
+        "declination": "+00\u00b0 08\u2032 40.4\u2033",
+        "apparent_magnitude": "8.87",
+        "absolute_magnitude": "",
+        "distance_light_year": "547",
+        "spectral_class": "A7IIIe"
+    },
+    {
+        "name": "V2689 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 36m 30.99s",
+        "declination": "+11\u00b0 19\u2032 40.32\u2033",
+        "apparent_magnitude": "8.90",
+        "absolute_magnitude": "",
+        "distance_light_year": "37",
+        "spectral_class": "K7-M0V"
+    },
+    {
+        "name": "HD 290327",
+        "constellation": "Orion",
+        "right_ascension": "05h 23m 21.56s",
+        "declination": "\u221202\u00b0 16\u2032 39.4\u2033",
+        "apparent_magnitude": "8.96",
+        "absolute_magnitude": "5.26",
+        "distance_light_year": "179",
+        "spectral_class": "G5IV"
+    },
+    {
+        "name": "DN Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 00m 28.35s",
+        "declination": "+10\u00b0 13\u2032 05.0\u2033",
+        "apparent_magnitude": "9.15",
+        "absolute_magnitude": "",
+        "distance_light_year": "942",
+        "spectral_class": "A2e"
+    },
+    {
+        "name": "V1355 Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 02m 40.36s",
+        "declination": "\u221200\u00b0 51\u2032 37.3\u2033",
+        "apparent_magnitude": "9.19",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "K0-2IV"
+    },
+    {
+        "name": "FT Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 13m 58.15s",
+        "declination": "+21\u00b0 25\u2032 39.2\u2033",
+        "apparent_magnitude": "9.29",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A0"
+    },
+    {
+        "name": "ER Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 11m 14.51s",
+        "declination": "\u221208\u00b0 33\u2032 24.7\u2033",
+        "apparent_magnitude": "9.46",
+        "absolute_magnitude": "",
+        "distance_light_year": "1340",
+        "spectral_class": "G1V:"
+    },
+    {
+        "name": "HD 250550",
+        "constellation": "Orion",
+        "right_ascension": "06h 01m 59.99s",
+        "declination": "+16\u00b0 30\u2032 56.7\u2033",
+        "apparent_magnitude": "9.48",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "B9e"
+    },
+    {
+        "name": "UX Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 04m 29.99s",
+        "declination": "\u221203\u00b0 47\u2032 14.3\u2033",
+        "apparent_magnitude": "9.48",
+        "absolute_magnitude": "",
+        "distance_light_year": "913",
+        "spectral_class": "A4IVe"
+    },
+    {
+        "name": "EY Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 31m 18.41s",
+        "declination": "\u221205\u00b0 42\u2032 13.5\u2033",
+        "apparent_magnitude": "9.49",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A7V"
+    },
+    {
+        "name": "BN Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 36m 29.35s",
+        "declination": "+06\u00b0 50\u2032 02.2\u2033",
+        "apparent_magnitude": "9.60",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "F4e"
+    },
+    {
+        "name": "FU Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 45m 22.36s",
+        "declination": "+09\u00b0 04\u2032 12.4\u2033",
+        "apparent_magnitude": "9.60",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "F0Iab"
+    },
+    {
+        "name": "BF Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 37m 13.26s",
+        "declination": "\u221206\u00b0 35\u2032 00.6\u2033",
+        "apparent_magnitude": "9.69",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A7III"
+    },
+    {
+        "name": "Gliese 221",
+        "constellation": "Orion",
+        "right_ascension": "05h 53m 00.28s",
+        "declination": "\u221205\u00b0 59\u2032 41.4\u2033",
+        "apparent_magnitude": "9.69",
+        "absolute_magnitude": "",
+        "distance_light_year": "66",
+        "spectral_class": "K7V/M0V"
+    },
+    {
+        "name": "V586 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 36m 59.25s",
+        "declination": "\u221206\u00b0 09\u2032 16.4\u2033",
+        "apparent_magnitude": "9.77",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A3V"
+    },
+    {
+        "name": "HD 37411",
+        "constellation": "Orion",
+        "right_ascension": "05h 38m 14.51s",
+        "declination": "\u221205\u00b0 25\u2032 13.3\u2033",
+        "apparent_magnitude": "9.79",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "B9Ve"
+    },
+    {
+        "name": "BD +03 740",
+        "constellation": "Orion",
+        "right_ascension": "05h 01m 16.62s",
+        "declination": "+04\u00b0 06\u2032 37.0\u2033",
+        "apparent_magnitude": "9.81",
+        "absolute_magnitude": "",
+        "distance_light_year": "371",
+        "spectral_class": "sd:F0"
+    },
+    {
+        "name": "HD 34282",
+        "constellation": "Orion",
+        "right_ascension": "05h 16m 00.48s",
+        "declination": "\u221209\u00b0 48\u2032 35.4\u2033",
+        "apparent_magnitude": "9.84",
+        "absolute_magnitude": "",
+        "distance_light_year": "622",
+        "spectral_class": "A0"
+    },
+    {
+        "name": "EW Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 20m 09.15s",
+        "declination": "+02\u00b0 02\u2032 40.0\u2033",
+        "apparent_magnitude": "9.9",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "F8"
+    },
+    {
+        "name": "V1162 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 32m 01.99s",
+        "declination": "\u221207\u00b0 15\u2032 24.6\u2033",
+        "apparent_magnitude": "9.9",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A6mF2"
+    },
+    {
+        "name": "Z Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 55m 50.93s",
+        "declination": "+13\u00b0 41\u2032 42.0\u2033",
+        "apparent_magnitude": "9.98",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "B4V..."
+    },
+    {
+        "name": "GW Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 29m 08.39s",
+        "declination": "+11\u00b0 52\u2032 12.7\u2033",
+        "apparent_magnitude": "10.10",
+        "absolute_magnitude": "",
+        "distance_light_year": "896",
+        "spectral_class": "G5/8Ve"
+    },
+    {
+        "name": "WASP-82",
+        "constellation": "Orion",
+        "right_ascension": "04h 50m 39.0s",
+        "declination": "+01\u00b0 53\u2032 38\u2033",
+        "apparent_magnitude": "10.1",
+        "absolute_magnitude": "",
+        "distance_light_year": "652",
+        "spectral_class": "F5"
+    },
+    {
+        "name": "V1005 Ori",
+        "constellation": "Orion",
+        "right_ascension": "04h 59m 34.83s",
+        "declination": "+01\u00b0 47\u2032 00.7\u2033",
+        "apparent_magnitude": "10.11",
+        "absolute_magnitude": "",
+        "distance_light_year": "84",
+        "spectral_class": "M0Ve"
+    },
+    {
+        "name": "V346 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 24m 42.80s",
+        "declination": "+01\u00b0 43\u2032 48.3\u2033",
+        "apparent_magnitude": "10.17",
+        "absolute_magnitude": "",
+        "distance_light_year": "1570",
+        "spectral_class": "A"
+    },
+    {
+        "name": "CO Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 27m 38.34s",
+        "declination": "+11\u00b0 25\u2032 39.0\u2033",
+        "apparent_magnitude": "10.30",
+        "absolute_magnitude": "",
+        "distance_light_year": "1060",
+        "spectral_class": "F7Ve"
+    },
+    {
+        "name": "FZ Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 41m 21.01s",
+        "declination": "+02\u00b0 36\u2032 23.0\u2033",
+        "apparent_magnitude": "10.70",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "G0"
+    },
+    {
+        "name": "V380 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 36m 25.43s",
+        "declination": "\u221206\u00b0 52\u2032 57.7\u2033",
+        "apparent_magnitude": "10.7",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A1e"
+    },
+    {
+        "name": "GG Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 43m 10.22s",
+        "declination": "\u221200\u00b0 41\u2032 14.9\u2033",
+        "apparent_magnitude": "",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A2"
+    },
+    {
+        "name": "HK Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 31m 28.05s",
+        "declination": "+12\u00b0 09\u2032 10.3\u2033",
+        "apparent_magnitude": "11.20",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A2?e+G0?e"
+    },
+    {
+        "name": "T Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 50.44s",
+        "declination": "\u221205\u00b0 28\u2032 34.9\u2033",
+        "apparent_magnitude": "11.25",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A3IVeb"
+    },
+    {
+        "name": "DY Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 06m 14.91s",
+        "declination": "+13\u00b0 54\u2032 19.1\u2033",
+        "apparent_magnitude": "11.29",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "LkH\u03b1 208",
+        "constellation": "Orion",
+        "right_ascension": "06h 07m 49.54s",
+        "declination": "+18\u00b0 39\u2032 26.5\u2033",
+        "apparent_magnitude": "11.30",
+        "absolute_magnitude": "",
+        "distance_light_year": "1000",
+        "spectral_class": "F0Ve"
+    },
+    {
+        "name": "GJ 3379",
+        "constellation": "Orion",
+        "right_ascension": "06h 00m 03.50s",
+        "declination": "+02\u00b0 42\u2032 23.7\u2033",
+        "apparent_magnitude": "11.31",
+        "absolute_magnitude": "",
+        "distance_light_year": "17",
+        "spectral_class": "M4.0V"
+    },
+    {
+        "name": "FH Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 23m 18.62s",
+        "declination": "+04\u00b0 15\u2032 38.2\u2033",
+        "apparent_magnitude": "11.37",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "A2"
+    },
+    {
+        "name": "\u03b81 Ori E",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 15.77s",
+        "declination": "\u221205\u00b0 23\u2032 10.02\u2033",
+        "apparent_magnitude": "11.4",
+        "absolute_magnitude": "",
+        "distance_light_year": "1600",
+        "spectral_class": "G2IV+G2IV"
+    },
+    {
+        "name": "V371 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 33m 44.81s",
+        "declination": "+01\u00b0 56\u2032 43.4\u2033",
+        "apparent_magnitude": "11.50",
+        "absolute_magnitude": "",
+        "distance_light_year": "51",
+        "spectral_class": "M2.5V"
+    },
+    {
+        "name": "Ross 87",
+        "constellation": "Orion",
+        "right_ascension": "05h 42m 09.27s",
+        "declination": "+12\u00b0 29\u2032 21.6\u2033",
+        "apparent_magnitude": "11.51",
+        "absolute_magnitude": "",
+        "distance_light_year": "19",
+        "spectral_class": "M4.0V"
+    },
+    {
+        "name": "Gliese 179",
+        "constellation": "Orion",
+        "right_ascension": "04h 52m 05.73s",
+        "declination": "+06\u00b0 28\u2032 35.5\u2033",
+        "apparent_magnitude": "11.96",
+        "absolute_magnitude": "7.41",
+        "distance_light_year": "40",
+        "spectral_class": "M3.5"
+    },
+    {
+        "name": "GP Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 02m 48.07s",
+        "declination": "+15\u00b0 19\u2032 12.6\u2033",
+        "apparent_magnitude": "12.20",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "SC7/8"
+    },
+    {
+        "name": "RX J0529.4+0041",
+        "constellation": "Orion",
+        "right_ascension": "05h 29m 20.65s",
+        "declination": "+00\u00b0 41\u2032 28.0\u2033",
+        "apparent_magnitude": "12.30",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "K2"
+    },
+    {
+        "name": "GU Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 10m 04.62s",
+        "declination": "+12\u00b0 49\u2032 46.6\u2033",
+        "apparent_magnitude": "",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "YY Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 34m 47.53s",
+        "declination": "\u221205\u00b0 57\u2032 56.9\u2033",
+        "apparent_magnitude": "13.20",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "K2IVe"
+    },
+    {
+        "name": "LV 2",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 16.72s",
+        "declination": "\u221205\u00b0 23\u2032 16.6\u2033",
+        "apparent_magnitude": "13.68",
+        "absolute_magnitude": "",
+        "distance_light_year": "1600",
+        "spectral_class": "K0.7"
+    },
+    {
+        "name": "G 99-47",
+        "constellation": "Orion",
+        "right_ascension": "05h 56m 25.47s",
+        "declination": "+05\u00b0 21\u2032 48.6\u2033",
+        "apparent_magnitude": "14.10",
+        "absolute_magnitude": "",
+        "distance_light_year": "26",
+        "spectral_class": "DA8P"
+    },
+    {
+        "name": "V1118 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 34m 44.75s",
+        "declination": "\u221205\u00b0 33\u2032 42.2\u2033",
+        "apparent_magnitude": "14.43",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "M1e"
+    },
+    {
+        "name": "LP 658-2",
+        "constellation": "Orion",
+        "right_ascension": "05h 55m 09.49s",
+        "declination": "\u221204\u00b0 10\u2032 04.3\u2033",
+        "apparent_magnitude": "14.45",
+        "absolute_magnitude": "",
+        "distance_light_year": "21",
+        "spectral_class": "DZ11"
+    },
+    {
+        "name": "G 99-37",
+        "constellation": "Orion",
+        "right_ascension": "05h 51m 19.48s",
+        "declination": "\u221200\u00b0 10\u2032 21.3\u2033",
+        "apparent_magnitude": "14.60",
+        "absolute_magnitude": "",
+        "distance_light_year": "36",
+        "spectral_class": "DQ8P"
+    },
+    {
+        "name": "V1159 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 28m 59.57s",
+        "declination": "\u221203\u00b0 33\u2032 52.3\u2033",
+        "apparent_magnitude": "",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "VY Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 33m 35.89s",
+        "declination": "\u221205\u00b0 01\u2032 32.49\u2033",
+        "apparent_magnitude": "14.9",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "V1309 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 15m 41.41s",
+        "declination": "+01\u00b0 04\u2032 40.5\u2033",
+        "apparent_magnitude": "15.2",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "WD+M0V"
+    },
+    {
+        "name": "CN Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 52m 07.79s",
+        "declination": "\u221205\u00b0 25\u2032 00.5\u2033",
+        "apparent_magnitude": "16.2",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "CZ Ori",
+        "constellation": "Orion",
+        "right_ascension": "06h 16m 43.23s",
+        "declination": "+15\u00b0 24\u2032 11.3\u2033",
+        "apparent_magnitude": "17.6",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "V1647 Ori",
+        "constellation": "Orion",
+        "right_ascension": "05h 46m 13.14s",
+        "declination": "\u221200\u00b0 06\u2032 04.8\u2033",
+        "apparent_magnitude": "18.1",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "4U 0614+091",
+        "constellation": "Orion",
+        "right_ascension": "06h 17m 07.3s",
+        "declination": "+09\u00b0 08\u2032 13\u2033",
+        "apparent_magnitude": "18.5",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "Becklin\u2013Neugebauer Object",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 14.11s",
+        "declination": "\u221205\u00b0 22\u2032 22.7\u2033",
+        "apparent_magnitude": "",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "B"
+    },
+    {
+        "name": "2MASS J05352184-0546085",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 21.84s",
+        "declination": "\u221205\u00b0 46\u2032 08.6\u2033",
+        "apparent_magnitude": "",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "M7"
+    },
+    {
+        "name": "OMC-2 FIR 4",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 26.97s",
+        "declination": "\u221205\u00b0 09\u2032 54.5\u2033",
+        "apparent_magnitude": "",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "M7"
+    },
+    {
+        "name": "Orion Source I",
+        "constellation": "Orion",
+        "right_ascension": "05h 35m 14.51s",
+        "declination": "\u221205\u00b0 22\u2032 30.4\u2033",
+        "apparent_magnitude": "",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "Reipurth 50",
+        "constellation": "Orion",
+        "right_ascension": "05h 40m 27.45s",
+        "declination": "\u221207\u00b0 27\u2032 30.1\u2033",
+        "apparent_magnitude": "",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    },
+    {
+        "name": "S Ori 70",
+        "constellation": "Orion",
+        "right_ascension": "05h 38m 10.10s",
+        "declination": "\u221202\u00b0 26\u2032 26.0\u2033",
+        "apparent_magnitude": "",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": "T6"
+    },
+    {
+        "name": "WISE J0521+1025",
+        "constellation": "Orion",
+        "right_ascension": "05h 21m 26.30s",
+        "declination": "+10\u00b0 25\u2032 28.5\u2033",
+        "apparent_magnitude": "16",
+        "absolute_magnitude": "",
+        "distance_light_year": "",
+        "spectral_class": ""
+    }
+]
