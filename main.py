@@ -3,37 +3,47 @@ import requests
 import matplotlib.pyplot as plt
 import astropy.units as u
 from astropy.coordinates import SkyCoord
+import time
+import datasources.datasources as ds
 
 session = requests.Session
 
-def get_stardata():
-    url = "https://api.api-ninjas.com/v1/stars"
-    api_key = "j5oevuOJ9NdcM1HwWsOFpg==75r5iUoUJbh8BF33"
+def fetch_stardata(config):
+    #url = "https://api.api-ninjas.com/v1/stars"
+    url = config.get("ninja-api", "endpoint") + "/" + config.get("ninja-api", "resource")
+    #api_key = "j5oevuOJ9NdcM1HwWsOFpg==75r5iUoUJbh8BF33"
+    api_key = config.get("ninja-api", "api_key")
     offset = 0
     limit = 30
     constellation = 'orion'
-    headers = {'X-Api-Key': api_key}               
-    output = []
+    headers = {'X-Api-Key': api_key}
+    raw_data = []
     while True:
         params = {'limit': limit, 'offset': offset, 'constellation': constellation }
         r = requests.get(url, headers=headers, params=params)
         data = json.loads(r.text)
-        print(data)
         if not data:
             print('cai no if not')
             break
         for i in data:
-            i.update({"declination": i["declination"].replace(u"\u00a0", " ")})
-            i.update({"apparent_magnitude": i["apparent_magnitude"].replace(u"\u2212", "-")})
-            print(i["right_ascension"])
-            print(i["declination"])
-            print(i["apparent_magnitude"])
-            output.append(i)
+            raw_data.append(i)
         offset = limit + offset
-        #print(data)
+    return raw_data
 
-    with open("output.json", "w") as write_file:
-        json.dump(output, write_file, indent=4)
+
+def enrich_stardata(raw_data):
+    enriched_data = []
+    for i in raw_data:
+        i.update({"declination": i["declination"].replace(u"\u00a0", " ")})
+        i.update({"apparent_magnitude": i["apparent_magnitude"].replace(u"\u2212", "-")})
+        print(i["right_ascension"])
+        print(i["declination"])
+        print(i["apparent_magnitude"])
+        enriched_data.append(i)
+    return enriched_data
+
+    #with open("output.json", "w") as write_file:
+    #    json.dump(output, write_file, indent=4)
 
 def plot_stars_2d():
     # Load the JSON data
@@ -88,15 +98,15 @@ def plot_stars_2d():
 
     plt.show()
 
-def plot_stars_3d():
+def plot_stars_3d(data):
     def magnitude_to_size(magnitude, factor):
     #    brightness = 10**(-magnitude/2.5)
         brightness = float(magnitude)
         return brightness * factor
     
     # Load the JSON data
-    with open("output.json", "r") as f:
-        data = json.load(f)
+    #with open("output.json", "r") as f:
+    #    data = json.load(f)
 
     visible = [obj for obj in data if obj["apparent_magnitude"] and float(obj["apparent_magnitude"]) < 3]
     not_visible = [obj for obj in data if (obj["distance_light_year"]) and (obj["apparent_magnitude"]) and float(obj["apparent_magnitude"]) > 3 and float(obj["distance_light_year"].replace(",", "")) < 2000 ]
@@ -183,5 +193,42 @@ def plot_stars_3d():
 
     plt.show()
 
-get_stardata()
-plot_stars_3d()
+
+
+#class CosmosConfigValidator:
+#    def __init__(self, config) -> None:
+#        self.config = config
+
+
+#class CosmosDataFetcher:
+#    def __init__(self, config: DataSourceConfigValidator):
+#        self.config = config
+#        self.session = requests.Session()
+#
+#    def fetch_data(self) -> list:
+#        output = []
+#        offset = 0
+#        while True:
+#            params = {""}
+
+#def main():
+ds_config = ds.DataSourceConfig("datasources.ini")
+config = ds_config.get_config()
+ds_config_rest = ds.ValidatorRest()
+
+for section in ds_config.get_types("REST"):
+    if ds_config_rest.validate_datasource_config(section, ds_config.get_config()):
+        print("valid rest")
+    else:
+        print("invalid rest")
+    #data_api.read_config()
+    #get_stardata()
+    #plot_stars_3d()
+
+raw_star_data = fetch_stardata(config)
+enriched_star_data = enrich_stardata(raw_star_data)
+plot_stars_3d(enriched_star_data)
+
+
+#while True:
+#    time.sleep(10)
