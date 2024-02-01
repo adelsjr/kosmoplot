@@ -9,9 +9,7 @@ import datasources.datasources as ds
 session = requests.Session
 
 def fetch_stardata(config):
-    #url = "https://api.api-ninjas.com/v1/stars"
     url = config.get("ninja-api", "endpoint") + "/" + config.get("ninja-api", "resource")
-    #api_key = "j5oevuOJ9NdcM1HwWsOFpg==75r5iUoUJbh8BF33"
     api_key = config.get("ninja-api", "api_key")
     offset = 0
     limit = 30
@@ -36,9 +34,6 @@ def enrich_stardata(raw_data):
     for i in raw_data:
         i.update({"declination": i["declination"].replace(u"\u00a0", " ")})
         i.update({"apparent_magnitude": i["apparent_magnitude"].replace(u"\u2212", "-")})
-        print(i["right_ascension"])
-        print(i["declination"])
-        print(i["apparent_magnitude"])
         enriched_data.append(i)
     return enriched_data
 
@@ -221,14 +216,8 @@ for section in ds_config.get_types("REST"):
         print("valid rest")
     else:
         print("invalid rest")
-    #data_api.read_config()
-    #get_stardata()
-    #plot_stars_3d()
 
 raw_star_data = fetch_stardata(config)
 enriched_star_data = enrich_stardata(raw_star_data)
 plot_stars_3d(enriched_star_data)
 
-
-#while True:
-#    time.sleep(10)
