@@ -1,0 +1,12 @@
+name: KosmoPlot Continuos Integration
+
+on: push
+
+jobs:
+  linters:
+    runs-on: ubuntu-latest
+    steps:
+    - name: PyLint with dynamic badge
+      uses: Silleellie/pylint-github-action@v2
+      with:
+        lint-path: main.py
