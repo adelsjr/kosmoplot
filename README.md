@@ -1,5 +1,7 @@
 # kosmoplot 🌌 🔭 
 
+![pylint]()
+
 **kosmoplot** is a little python application that generates a 3D view of stars constellations.
 
 Take a look at this photo (taken by me) of orion constellation:
