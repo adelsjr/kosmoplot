@@ -9,4 +9,6 @@ jobs:
     - name: PyLint with dynamic badge
       uses: Silleellie/pylint-github-action@v2
       with:
-        lint-path: main.py
+        lint-path: |
+          datasources
+          main.py
