@@ -1,3 +1,11 @@
-- name: PyLint with dynamic badge
-  uses: Silleellie/pylint-github-action@v2
+name: Linter
+
+on: push
+
+jobs:
+  steps: 
+    name: Install pre-commit
+    uses: Silleellie/pylint-github-action@v2
+
             
+    
