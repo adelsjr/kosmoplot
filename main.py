@@ -2,9 +2,8 @@ import json
 import requests
 import matplotlib.pyplot as plt
 import astropy.units as u
-from astropy.coordinates import SkyCoord
-import time
 import datasources.datasources as ds
+from astropy.coordinates import SkyCoord
 
 session = requests.Session
 
@@ -207,17 +206,8 @@ def plot_stars_3d(data):
 #            params = {""}
 
 #def main():
-ds_config = ds.DataSourceConfig("datasources.ini")
-config = ds_config.get_config()
-ds_config_rest = ds.ValidatorRest()
 
-for section in ds_config.get_types("REST"):
-    if ds_config_rest.validate_datasource_config(section, ds_config.get_config()):
-        print("valid rest")
-    else:
-        print("invalid rest")
-
-raw_star_data = fetch_stardata(config)
+raw_star_data = fetch_stardata(ds.config)
 enriched_star_data = enrich_stardata(raw_star_data)
 plot_stars_3d(enriched_star_data)
 

@@ -1,37 +1,35 @@
-from abc import ABC, abstractmethod
+"""Module providing classess to construct data sources"""
+
 import configparser
 
+config = configparser.ConfigParser()
+config.read("datasources.ini")
+
 class DataSourceConfig:
-    # Load the config ini file, if it exists
-    def __init__(self, config_file):
-        self.config = configparser.ConfigParser()
-        self.config.read(config_file)
-    
-    def get_config(self):
-        return self.config
+    """Class representing a section of a datasource config"""
 
-    def get_types(self, type):
-        ds_rest_list = [ds for ds in self.config.sections() if (self.config.get(ds, "type") == type)]
-        return ds_rest_list
-
-class DataSourceConfigValidator(ABC):
-    def __init__(self, data_source_type) -> None:
-        self.data_source_type = data_source_type
-
-    @abstractmethod
-    def validate_datasource_config(self):
-        pass
-
-class ValidatorRest(DataSourceConfigValidator):
-    def __init__(self) -> None:
-        super().__init__("rest")
-        self.keys_to_validate = ["endpoint","http_verb","resource"]
-        
-    def validate_datasource_config(self, section, config):
+    def __init__(self, datasource_config, section = None, keys_to_validate = None) -> None:
+        self.type = None
+        self.keys_to_validate = keys_to_validate
         self.section = section
-        self.config = config
+        self.config = datasource_config
+        self.datasource_config = self.config[self.section]
+
+    def get_type(self):
+        """Returns the datasource type of the given section"""
+        return self.section.get("type")
+
+    def set_section(self, section):
+        """Set the section of the object"""
+        self.section = section
+
+    def set_keys_to_validate(self, keys) -> list:
+        """Set the keys (as a list) to validate agains section"""
+        self.keys_to_validate = keys
+
+    def validate(self):
+        """Validates the givens keys agains section"""
         for key in self.keys_to_validate:
             if not self.config.has_option(self.section, key):
                 print(key)
                 return False
-        return True
