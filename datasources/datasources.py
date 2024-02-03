@@ -33,3 +33,4 @@ class DataSourceConfig:
             if not self.config.has_option(self.section, key):
                 print(key)
                 return False
+            return True
