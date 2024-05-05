@@ -1,3 +1,14 @@
+### Objetivo 3
+#### Refatorar o código existente, implementando Clean Code
+- Espera-se que a maioria da codebase siga princípios estabelecidos de Clean Code e Design Patterns
+- Espera-se que a codebase siga o PEP8 Style Guide
+- Espera-se que o refactor seja explicado via Pull Request
+
+1. **config**
+   1. ✅ Refatorando a parte de config para que o app suporte várias fontes de dados. 
+   2. ⏳ Adicionar try catch e tratar erros na validação do arquivo de configuração
+   3. ⏳ Testes
+
 ### Objetivo 2 :heavy_check_mark:
 
 ##### Plotar a distância em anos luz das estrelas num gráfico 3D
