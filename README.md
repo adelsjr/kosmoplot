@@ -1,6 +1,6 @@
 # kosmoplot 🌌 🔭 
 
-![pylint](https://img.shields.io/badge/PyLint-6.61-orange?logo=python&logoColor=white)
+![pylint](https://img.shields.io/badge/PyLint-5.76-orange?logo=python&logoColor=white)
 
 **kosmoplot** is a little python application that generates a 3D view of stars constellations.
 
